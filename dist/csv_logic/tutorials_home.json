@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Welcome_Delay",
+        "npc": "Tutorial_1",
+        "wait_time_ms": 2500,
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "Welcome",
+        "npc": "Tutorial_1",
+        "end_condition": "RemoveTooltip",
+        "dependency": "Welcome_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_WELCOME"
+    },
+    {
+        "name": "Welcome2",
+        "npc": "Tutorial_1",
+        "end_condition": "RemoveTooltip",
+        "dependency": "Welcome",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_WELCOME2"
+    },
+    {
+        "name": "TrainUnits",
+        "npc": "Tutorial_1",
+        "end_condition": "TrainTroop",
+        "target_card": "Grenade",
+        "dependency": "Welcome2"
+    },
+    {
+        "name": "UnlockAirdrop_Delay",
+        "npc": "Tutorial_2",
+        "wait_time_ms": 2500,
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "UnlockAirdrop",
+        "npc": "Tutorial_2",
+        "end_condition": "RemoveTooltip",
+        "dependency": "UnlockAirdrop_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_AIRDROP_UNLOCKED"
+    },
+    {
+        "name": "TrainAirdrop",
+        "npc": "Tutorial_2",
+        "end_condition": "TrainAirdrop",
+        "target_card": "ArcadeDrop",
+        "target_card2": "Grenade",
+        "dependency": "UnlockAirdrop"
+    },
+    {
+        "name": "UpgradeUnits_Delay",
+        "wait_time_ms": 2000,
+        "dependency": "TrainAirdrop",
+        "pre_condition": "CardsToUpgrade",
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "UpgradeUnits",
+        "end_condition": "UpgradeTroop",
+        "dependency": "UpgradeUnits_Delay"
+    },
+    {
+        "name": "UpgradeHQ_Delay",
+        "wait_time_ms": 1500,
+        "dependency": "UpgradeUnits",
+        "pre_condition": "CanUpgradeHQ",
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "UpgradeHQ_Dude",
+        "end_condition": "RemoveTooltip",
+        "dependency": "UpgradeHQ_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_UPGRADE_HQ"
+    },
+    {
+        "name": "UpgradeHQ",
+        "end_condition": "UpgradeHQ",
+        "dependency": "UpgradeHQ_Dude"
+    },
+    {
+        "name": "UpgradeHelicopter_Delay",
+        "wait_time_ms": 1500,
+        "dependency": "UpgradeHQ",
+        "pre_condition": "CanUpgradeHelicopter",
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "UpgradeHelicopter_Dude",
+        "end_condition": "RemoveTooltip",
+        "dependency": "UpgradeHelicopter_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_UPGRADE_HELI"
+    },
+    {
+        "name": "UpgradeHelicopter",
+        "end_condition": "UpgradeHelicopter",
+        "dependency": "UpgradeHelicopter_Dude"
+    },
+    {
+        "name": "Defence_Delay",
+        "wait_time_ms": 1500,
+        "dependency": "UpgradeHelicopter",
+        "pre_condition": "CanGoToOutpost",
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "Defence_Dude",
+        "end_condition": "RemoveTooltip",
+        "dependency": "Defence_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_OUTPOST"
+    },
+    {
+        "name": "Defence_Go",
+        "end_condition": "DefenceVisited",
+        "dependency": "Defence_Dude"
+    }
+]

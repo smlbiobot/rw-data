@@ -1,0 +1,149 @@
+[
+    {
+        "name": "HelicopterLevel"
+    },
+    {
+        "name": "SinglePlayerLevel"
+    },
+    {
+        "name": "CaptureTutorialOutpost"
+    },
+    {
+        "name": "ShouldCaptureOutpost"
+    },
+    {
+        "name": "AttackCount"
+    },
+    {
+        "name": "AttackWinCount"
+    },
+    {
+        "name": "AttackLoseCount"
+    },
+    {
+        "name": "DefenceWinCount"
+    },
+    {
+        "name": "DefenceLoseCount"
+    },
+    {
+        "name": "TutorialWinCount"
+    },
+    {
+        "name": "DefenceCount1"
+    },
+    {
+        "name": "DefenceStarCount1"
+    },
+    {
+        "name": "DefenceChestStarCount"
+    },
+    {
+        "name": "DefenceValid"
+    },
+    {
+        "name": "ChestStarCount"
+    },
+    {
+        "name": "CycleOffset"
+    },
+    {
+        "name": "MatchmakeCounter"
+    },
+    {
+        "name": "OutpostResourceTimerTicks"
+    },
+    {
+        "name": "FreeChestCounter"
+    },
+    {
+        "name": "AllianceChatFilter"
+    },
+    {
+        "name": "FavouriteCard"
+    },
+    {
+        "name": "FavouriteTroop"
+    },
+    {
+        "name": "FavouriteAirdrop"
+    },
+    {
+        "name": "FavouriteCommander"
+    },
+    {
+        "name": "TotalAttackStars"
+    },
+    {
+        "name": "TotalDefenceStars"
+    },
+    {
+        "name": "DominationAttackCount"
+    },
+    {
+        "name": "DominationAttackWinCount"
+    },
+    {
+        "name": "DominationAttackLoseCount"
+    },
+    {
+        "name": "UnclaimedDominationChest"
+    },
+    {
+        "name": "UnclaimedDominationGems"
+    },
+    {
+        "name": "UnclaimedDominationGold"
+    },
+    {
+        "name": "UnclaimedDominationYourStars"
+    },
+    {
+        "name": "UnclaimedDominationEnemyStars"
+    },
+    {
+        "name": "UnclaimedDominationResult"
+    },
+    {
+        "name": "HasBeenToOutpost"
+    },
+    {
+        "name": "ChestsSinceNewCard"
+    },
+    {
+        "name": "HasSavedOutpost"
+    },
+    {
+        "name": "DominationClanWinCount"
+    },
+    {
+        "name": "DominationClanLoseCount"
+    },
+    {
+        "name": "DominationTotalGoldLoot"
+    },
+    {
+        "name": "DominationTotalStarsReceived"
+    },
+    {
+        "name": "TotalDonatedGold"
+    },
+    {
+        "name": "TotalGoldLootPvp"
+    },
+    {
+        "name": "NextLocationEnvironment"
+    },
+    {
+        "name": "SeasonPoints"
+    },
+    {
+        "name": "ObstacleCounter"
+    },
+    {
+        "name": "ClanRulesShownIDhigh"
+    },
+    {
+        "name": "ClanRulesShownIDlow"
+    }
+]

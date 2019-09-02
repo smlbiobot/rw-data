@@ -1,0 +1,819 @@
+[
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_MIN",
+        "number_value": 1
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_HOUR",
+        "number_value": 20
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_24_HOURS",
+        "number_value": 260
+    },
+    {
+        "name": "SPEED_UP_DIAMOND_COST_1_WEEK",
+        "number_value": 1000
+    },
+    {
+        "name": "STARTING_GOLD",
+        "number_value": 500
+    },
+    {
+        "name": "STARTING_MINERAL"
+    },
+    {
+        "name": "STARTING_DIAMONDS",
+        "number_value": 100
+    },
+    {
+        "name": "STARTING_KEYS",
+        "number_value": 10
+    },
+    {
+        "name": "STARTING_AIRDROP_HOUSING",
+        "number_value": 1
+    },
+    {
+        "name": "STARTING_UNIT_HOUSING",
+        "number_value": 3
+    },
+    {
+        "name": "STARTING_DEFENCE_HOUSING",
+        "number_value": 4
+    },
+    {
+        "name": "START_GOLD_CAPACITY",
+        "number_value": 0
+    },
+    {
+        "name": "START_MINERAL_CAPACITY",
+        "number_value": 0
+    },
+    {
+        "name": "REFILL_KEY_COST",
+        "number_value": 10
+    },
+    {
+        "name": "TRAINING_TROOP_SLOTS",
+        "number_value": -1
+    },
+    {
+        "name": "TRAINING_AIRDROP_SLOTS",
+        "number_value": -1
+    },
+    {
+        "name": "ATTACK_PREPARATION_DURATION_SECONDS",
+        "number_value": 60
+    },
+    {
+        "name": "ATTACK_DURATION_SECONDS",
+        "number_value": 120
+    },
+    {
+        "name": "FREE_COLLECTABLE_SECONDS",
+        "number_value": 10800
+    },
+    {
+        "name": "ABILITY_TIME_MODIFIER_PERCENT",
+        "number_value": 20
+    },
+    {
+        "name": "HOME_BUILDING_FOR_HOUSING",
+        "text_value": "HOME_Helicopter"
+    },
+    {
+        "name": "BATTLE_TIME_SECONDS",
+        "number_value": 120
+    },
+    {
+        "name": "TUTORIAL_NPC_LEVEL_COUNT",
+        "number_value": 4
+    },
+    {
+        "name": "NAME_QUERY_NPC_LEVEL_COUNT",
+        "number_value": 3
+    },
+    {
+        "name": "RESET_CARD_USAGE_STATS_BATTLES",
+        "number_value": 10
+    },
+    {
+        "name": "STAR_THRESHOLD_PERCENT",
+        "number_array": {
+            "0": 50,
+            "1": 75,
+            "2": 100
+        }
+    },
+    {
+        "name": "ALLIANCE_CREATE_COST",
+        "number_value": 50
+    },
+    {
+        "name": "BATTLE_END_GOLD_REWARD",
+        "number_value": 10
+    },
+    {
+        "name": "ACHIEVEMENTS_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "K_FACTOR",
+        "number_array": 60
+    },
+    {
+        "name": "K_FACTOR_THRESHOLDS",
+        "number_array": 0
+    },
+    {
+        "name": "K_FACTOR_GAMEROOM",
+        "number_array": 60
+    },
+    {
+        "name": "K_FACTOR_GAMEROOM_THRESHOLDS",
+        "number_array": 0
+    },
+    {
+        "name": "MINIMUM_CHANGE_FOR_REAL_BATTLE",
+        "number_value": 1
+    },
+    {
+        "name": "TARGET_SCORE",
+        "number_value": 2000
+    },
+    {
+        "name": "SHOP_DAILY_PACKS",
+        "string_array": {
+            "0": "ShopPack1",
+            "1": "ShopPack2",
+            "2": "ShopPack3"
+        }
+    },
+    {
+        "name": "LOSE_SCORE_MILESTONES",
+        "number_array": {
+            "0": 0,
+            "1": 400,
+            "2": 800,
+            "3": 1200,
+            "4": 1600,
+            "5": 2000,
+            "6": 2500,
+            "7": 3000,
+            "8": 3300
+        }
+    },
+    {
+        "name": "LOSE_SCORE_PERCENTAGES",
+        "number_array": {
+            "0": 0,
+            "1": 35,
+            "2": 60,
+            "3": 75,
+            "4": 83,
+            "5": 88,
+            "6": 94,
+            "7": 98,
+            "8": 100
+        }
+    },
+    {
+        "name": "MINIMUM_SCORE",
+        "number_value": 0
+    },
+    {
+        "name": "PROTECTION_CAP_PERCENTAGE",
+        "number_value": 90
+    },
+    {
+        "name": "MAX_MESSAGE_LENGTH",
+        "number_value": 256
+    },
+    {
+        "name": "MAX_ALLIANCE_MAIL_LENGTH",
+        "number_value": 256
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1",
+        "number_value": 1
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10",
+        "number_value": 1
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100",
+        "number_value": 8
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000",
+        "number_value": 60
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_10000",
+        "number_value": 500
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_100000",
+        "number_value": 4500
+    },
+    {
+        "name": "RESOURCE_DIAMOND_COST_1000000",
+        "number_value": 45000
+    },
+    {
+        "name": "MAX_RESOURCE_PURCHASE_SIZE",
+        "number_value": 1000000
+    },
+    {
+        "name": "ALLIANCE_SCORE_CONTRIBUTION_PERCENTAGE",
+        "number_array": {
+            "0": 50,
+            "1": 25,
+            "2": 12,
+            "3": 10,
+            "4": 3
+        }
+    },
+    {
+        "name": "ATTACK_FINISH_TIME_MS",
+        "number_value": 250
+    },
+    {
+        "name": "BATTLE_PING_SAMPLE_SECONDS",
+        "number_value": 15
+    },
+    {
+        "name": "EXTRA_BUFF_RADIUS",
+        "number_value": 2000
+    },
+    {
+        "name": "MELEE_RANGE_LIMIT",
+        "number_value": 1900
+    },
+    {
+        "name": "LEAVE_ALLIANCE_DONATION_COOLDOWN_MINUTES",
+        "number_value": 150
+    },
+    {
+        "name": "ALLIANCE_UNLOCK_EXP_LEVEL",
+        "number_value": 3
+    },
+    {
+        "name": "ALLIANCE_DONATION_UNLOCK_EXP_LEVEL",
+        "number_value": 3
+    },
+    {
+        "name": "BIG_LIMIT",
+        "number_value": 1000
+    },
+    {
+        "name": "SUPER_LIMIT",
+        "number_value": 50000
+    },
+    {
+        "name": "TEAM_MAIL_COOLDOWN_SECS",
+        "number_value": 43200
+    },
+    {
+        "name": "DEVICE_LINK_CODE_LENGTH",
+        "number_value": 12
+    },
+    {
+        "name": "DEVICE_LINK_CODE_VALID_SECONDS",
+        "number_value": 120
+    },
+    {
+        "name": "DISABLE_COMBAT_COMPONENT_ON_DEATH",
+        "boolean_value": false
+    },
+    {
+        "name": "AVOID_WATER_ATTACK_POS",
+        "boolean_value": true
+    },
+    {
+        "name": "ALLOW_AOE_ATTACKS_WITHOUT_TARGET",
+        "boolean_value": true
+    },
+    {
+        "name": "EXTRA_SIGHT_RANGE_TO_BUILDING",
+        "number_value": 0
+    },
+    {
+        "name": "MAX_BATTLE_REWARDS_PER_DAY",
+        "number_value": 20
+    },
+    {
+        "name": "ADD_CHARACTER_RANGE_TO_RADIUS",
+        "boolean_value": true
+    },
+    {
+        "name": "ELDER_KICK_COOLDOWN",
+        "number_value": 1200
+    },
+    {
+        "name": "AUTO_RELEASE_STAGGERED_CARDS",
+        "boolean_value": true
+    },
+    {
+        "name": "LOGIC_CHARACTER_CONTINUOUS_DAMAGE_ATTACK_CLOSER",
+        "number_value": 500
+    },
+    {
+        "name": "LOGIC_CANCEL_HIT_FROM_LONG_DISTANCE",
+        "boolean_value": true
+    },
+    {
+        "name": "LOGIC_CANCEL_HIT_FROM_LONG_DISTANCE_RANGE",
+        "number_value": 1500
+    },
+    {
+        "name": "LOGIC_PRESERVE_TARGET_IF_HIT_STARTED",
+        "boolean_value": true
+    },
+    {
+        "name": "LOGIC_PENDING_DAMAGE_IGNORE_IF_DURATION_LESS",
+        "number_value": 600
+    },
+    {
+        "name": "LOGIC_LOAD_FIRST_HIT_RESET_TIMER_AFTER_ATTACK",
+        "boolean_value": true
+    },
+    {
+        "name": "LOGIC_LOAD_FIRST_HIT_RESET_TIMER_WHEN_ZAPPED",
+        "boolean_value": true
+    },
+    {
+        "name": "ALLIANCE_TROPHY_LIMITS",
+        "number_array": {
+            "0": 0,
+            "1": 200,
+            "2": 400,
+            "3": 600,
+            "4": 800,
+            "5": 1000,
+            "6": 1200,
+            "7": 1400,
+            "8": 1600,
+            "9": 1800,
+            "10": 2000,
+            "11": 2200,
+            "12": 2400,
+            "13": 2600,
+            "14": 2800,
+            "15": 3000,
+            "16": 3200,
+            "17": 3400,
+            "18": 3600,
+            "19": 3800,
+            "20": 4000,
+            "21": 4300,
+            "22": 4600
+        }
+    },
+    {
+        "name": "FLY_FROM_GROUND_DURATION",
+        "number_value": 800
+    },
+    {
+        "name": "UNIT_ALARM_PROPAGATION_MS_PER_TILE",
+        "number_value": 40
+    },
+    {
+        "name": "TRAP_VISIBLE_AT_DISTANCE_TILES",
+        "number_value": 12
+    },
+    {
+        "name": "FIXED_DROPS"
+    },
+    {
+        "name": "FIXED_DROP_COUNTERS"
+    },
+    {
+        "name": "DROP_CYCLE",
+        "string_array": {
+            "0": "Common",
+            "1": "Common",
+            "2": "Common",
+            "3": "Rare",
+            "4": "Common",
+            "5": "Common",
+            "6": "Common",
+            "7": "Rare",
+            "8": "Common",
+            "9": "Common",
+            "10": "Common",
+            "11": "Epic",
+            "12": "Common",
+            "13": "Common",
+            "14": "Rare",
+            "15": "Common",
+            "16": "Common",
+            "17": "Common",
+            "18": "Rare",
+            "19": "Common",
+            "20": "Common",
+            "21": "Common",
+            "22": "Rare",
+            "23": "Common",
+            "24": "Common",
+            "25": "Common",
+            "26": "Rare",
+            "27": "Common",
+            "28": "Common",
+            "29": "Rare",
+            "30": "Common",
+            "31": "Common",
+            "32": "Common",
+            "33": "Rare",
+            "34": "Common",
+            "35": "Common",
+            "36": "Common",
+            "37": "Rare",
+            "38": "Common",
+            "39": "Common",
+            "40": "Common",
+            "41": "Rare",
+            "42": "Common",
+            "43": "Common",
+            "44": "Rare",
+            "45": "Common",
+            "46": "Common",
+            "47": "Common",
+            "48": "Rare",
+            "49": "Common",
+            "50": "Common",
+            "51": "Common",
+            "52": "Rare",
+            "53": "Common",
+            "54": "Common",
+            "55": "Common",
+            "56": "Rare",
+            "57": "Common",
+            "58": "Common",
+            "59": "Rare",
+            "60": "Common",
+            "61": "Common",
+            "62": "Common",
+            "63": "Rare",
+            "64": "Common",
+            "65": "Common",
+            "66": "Common",
+            "67": "Rare",
+            "68": "Common",
+            "69": "Common",
+            "70": "Common",
+            "71": "Rare",
+            "72": "Common",
+            "73": "Common",
+            "74": "Rare",
+            "75": "Common",
+            "76": "Common",
+            "77": "Common",
+            "78": "Rare",
+            "79": "Common",
+            "80": "Common",
+            "81": "Common",
+            "82": "Rare",
+            "83": "Common",
+            "84": "Common",
+            "85": "Common",
+            "86": "Rare",
+            "87": "Common",
+            "88": "Common",
+            "89": "Rare",
+            "90": "Common",
+            "91": "Common",
+            "92": "Common",
+            "93": "Rare",
+            "94": "Common",
+            "95": "Common",
+            "96": "Common",
+            "97": "Rare",
+            "98": "Common",
+            "99": "Common",
+            "100": "Common",
+            "101": "Rare",
+            "102": "Common",
+            "103": "Common",
+            "104": "Rare",
+            "105": "Common",
+            "106": "Common",
+            "107": "Common",
+            "108": "Rare",
+            "109": "Common",
+            "110": "Common",
+            "111": "Common",
+            "112": "Rare",
+            "113": "Common",
+            "114": "Common",
+            "115": "Common",
+            "116": "Rare",
+            "117": "Common",
+            "118": "Common",
+            "119": "Rare",
+            "120": "Common",
+            "121": "Common",
+            "122": "Common",
+            "123": "Rare",
+            "124": "Common",
+            "125": "Common",
+            "126": "Common",
+            "127": "Epic",
+            "128": "Common",
+            "129": "Common",
+            "130": "Common",
+            "131": "Rare",
+            "132": "Common",
+            "133": "Common",
+            "134": "Rare",
+            "135": "Common",
+            "136": "Common",
+            "137": "Common",
+            "138": "Rare",
+            "139": "Common",
+            "140": "Common",
+            "141": "Common",
+            "142": "Rare",
+            "143": "Common",
+            "144": "Common",
+            "145": "Common",
+            "146": "Rare",
+            "147": "Common",
+            "148": "Common",
+            "149": "Rare",
+            "150": "Common",
+            "151": "Common",
+            "152": "Common",
+            "153": "Rare",
+            "154": "Common",
+            "155": "Common",
+            "156": "Common",
+            "157": "Rare",
+            "158": "Common",
+            "159": "Common",
+            "160": "Common",
+            "161": "Rare",
+            "162": "Common",
+            "163": "Common",
+            "164": "Rare",
+            "165": "Common",
+            "166": "Common",
+            "167": "Common",
+            "168": "Rare",
+            "169": "Common",
+            "170": "Common",
+            "171": "Common",
+            "172": "Rare",
+            "173": "Common",
+            "174": "Common",
+            "175": "Common",
+            "176": "Rare",
+            "177": "Common",
+            "178": "Common",
+            "179": "Rare",
+            "180": "Common",
+            "181": "Common",
+            "182": "Common",
+            "183": "Rare",
+            "184": "Common",
+            "185": "Common",
+            "186": "Common",
+            "187": "Rare",
+            "188": "Common",
+            "189": "Common",
+            "190": "Common",
+            "191": "Rare",
+            "192": "Common",
+            "193": "Common",
+            "194": "Rare",
+            "195": "Common",
+            "196": "Common",
+            "197": "Common",
+            "198": "Rare",
+            "199": "Common",
+            "200": "Common",
+            "201": "Common",
+            "202": "Rare",
+            "203": "Common",
+            "204": "Common",
+            "205": "Common",
+            "206": "Rare",
+            "207": "Common",
+            "208": "Common",
+            "209": "Rare"
+        }
+    },
+    {
+        "name": "GIVE_HOME_BUILDINGS_AFTER_N_WINS",
+        "number_value": 10
+    },
+    {
+        "name": "LOOT_LIMIT_COOLDOWN_HOURS",
+        "number_value": 4
+    },
+    {
+        "name": "LOOT_LIMIT_WINS_PER_DAY",
+        "number_value": 10
+    },
+    {
+        "name": "DEFENCE_REWARD_PER_STAR",
+        "number_value": 10
+    },
+    {
+        "name": "KEY_GENERATION_TIME_MINS",
+        "number_value": 60
+    },
+    {
+        "name": "DEFENCE_CHEST_THRESHOLDS",
+        "number_array": 100
+    },
+    {
+        "name": "DEFENCE_CHESTS",
+        "string_array": "Defence"
+    },
+    {
+        "name": "ALLIANCE_SCORE_LIMIT",
+        "number_array": {
+            "0": 0,
+            "1": 200,
+            "2": 400,
+            "3": 600,
+            "4": 800,
+            "5": 1000,
+            "6": 1100,
+            "7": 1200,
+            "8": 1300,
+            "9": 1400,
+            "10": 1500,
+            "11": 1600,
+            "12": 1700,
+            "13": 1800,
+            "14": 1900,
+            "15": 2000,
+            "16": 2100,
+            "17": 2200,
+            "18": 2300,
+            "19": 2400,
+            "20": 2500,
+            "21": 2600,
+            "22": 2700,
+            "23": 2800,
+            "24": 2900,
+            "25": 3000,
+            "26": 3100,
+            "27": 3200,
+            "28": 3300,
+            "29": 3400,
+            "30": 3500,
+            "31": 3600,
+            "32": 3700,
+            "33": 3800,
+            "34": 3900,
+            "35": 4000,
+            "36": 4100,
+            "37": 4200
+        }
+    },
+    {
+        "name": "CAPTURE_COST",
+        "number_value": 1000
+    },
+    {
+        "name": "SPAWNER_BUILDING_TOTAL_UNITS_TO_SPAWN",
+        "number_value": 15
+    },
+    {
+        "name": "WALLS_FOR_ONE_HOUSING",
+        "number_value": 5
+    },
+    {
+        "name": "CLAN_RESEARCH_GOAL",
+        "number_value": 10
+    },
+    {
+        "name": "CLAN_RESEARCH_DONATIONS_PER_USER",
+        "number_value": 2
+    },
+    {
+        "name": "CLAN_RESEARCH_DURATION_HOURS",
+        "number_value": 72
+    },
+    {
+        "name": "CLAN_RESEARCH_MINIMUM_CLAN_SIZE",
+        "number_value": 5
+    },
+    {
+        "name": "LIMIT_CARD_LEVELS_BY_HQ_TH",
+        "boolean_value": false
+    },
+    {
+        "name": "REFRESH_PATH_WHEN_WALKING_TO_WALL_TIME_MIN",
+        "number_value": 750
+    },
+    {
+        "name": "REFRESH_PATH_WHEN_WALKING_TO_WALL_TIME_MAX",
+        "number_value": 1500
+    },
+    {
+        "name": "STARS_FOR_CHEST",
+        "number_value": 5
+    },
+    {
+        "name": "STARS_TO_LEADERBOARD",
+        "number_value": 10
+    },
+    {
+        "name": "ATTACK_COST_INCREASE_PER_TIME",
+        "number_array": {
+            "0": 100,
+            "1": 150,
+            "2": 200,
+            "3": 275,
+            "4": 350,
+            "5": 425,
+            "6": 500,
+            "7": 600,
+            "8": 750,
+            "9": 900,
+            "10": 1000
+        }
+    },
+    {
+        "name": "RESOURCE_PRODUCTION_LOOT_PERCENTAGE",
+        "number_value": 50
+    },
+    {
+        "name": "FREE_CHEST_GEMS",
+        "number_array": {
+            "0": 2,
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 0,
+            "6": 0,
+            "7": 2,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 4,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 2,
+            "16": 0,
+            "17": 0,
+            "18": 2,
+            "19": 2,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+        }
+    },
+    {
+        "name": "DOMINATION_MAX_EXCLUDE_MEMBERS",
+        "number_value": 50
+    },
+    {
+        "name": "DOMINATION_PREPARATION_DURATION",
+        "number_value": 1440
+    },
+    {
+        "name": "DOMINATION_ATTACK_DURATION",
+        "number_value": 1440
+    },
+    {
+        "name": "DOMINATION_UNLOCK_LEVEL"
+    },
+    {
+        "name": "LIVE_REPLAY_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "LIVE_REPLAY_UPDATE_FREQUENCY_SECONDS",
+        "number_value": 2
+    },
+    {
+        "name": "LIVE_REPLAY_ALLOW_DEBUG_COMMAND",
+        "boolean_value": true
+    },
+    {
+        "name": "SHARE_REPLAY_COOLDOWN",
+        "number_value": 60
+    },
+    {
+        "name": "USE_OLD_CLOSEST_VALID_POSITION",
+        "boolean_value": false
+    },
+    {
+        "name": "USE_LEADERBOARD_ATTACK_DIRECT",
+        "boolean_value": true
+    },
+    {
+        "name": "DOMINATION_MAP_COMPLETE_CACHE",
+        "boolean_value": true
+    }
+]

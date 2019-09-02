@@ -1,0 +1,53 @@
+[
+    {
+        "name": "NonMember",
+        "level": 0,
+        "can_invite": false,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": false
+    },
+    {
+        "name": "Member",
+        "level": 1,
+        "tid": "TID_ALLIANCE_ROLE_MEMBER",
+        "can_invite": false,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": false,
+        "can_kick": false
+    },
+    {
+        "name": "Leader",
+        "level": 20,
+        "tid": "TID_ALLIANCE_ROLE_LEADER",
+        "can_invite": true,
+        "can_send_mail": true,
+        "can_change_alliance_settings": true,
+        "can_accept_join_request": true,
+        "can_kick": true,
+        "can_be_promoted_to_leader": true
+    },
+    {
+        "name": "Elder",
+        "level": 5,
+        "tid": "TID_ALLIANCE_ROLE_ELDER",
+        "can_invite": true,
+        "can_send_mail": false,
+        "can_change_alliance_settings": false,
+        "can_accept_join_request": true,
+        "can_kick": true
+    },
+    {
+        "name": "Co-leader",
+        "level": 10,
+        "tid": "TID_ALLIANCE_ROLE_CO_LEADER",
+        "can_invite": true,
+        "can_send_mail": true,
+        "can_change_alliance_settings": true,
+        "can_accept_join_request": true,
+        "can_kick": true,
+        "can_be_promoted_to_leader": true,
+        "can_promote_to_own_level": true
+    }
+]

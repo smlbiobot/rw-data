@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Tutorial_1",
+        "tid": "TID_NPC_TUTORIAL_1",
+        "json": "npc/tutorial_1.loc.json",
+        "chest": "TutorialChest1",
+        "no_timer": true,
+        "gold": 15
+    },
+    {
+        "name": "Tutorial_2",
+        "tid": "TID_NPC_TUTORIAL_2",
+        "json": "npc/tutorial_2.loc.json",
+        "chest": "TutorialChest2",
+        "no_timer": true,
+        "gold": 15
+    },
+    {
+        "name": "Tutorial_3",
+        "tid": "TID_NPC_TUTORIAL_3",
+        "json": "npc/tutorial_3.loc.json",
+        "chest": "TutorialChest3",
+        "no_timer": true,
+        "gold": 15
+    },
+    {
+        "name": "Tutorial_4",
+        "tid": "TID_NPC_TUTORIAL_4",
+        "json": "npc/tutorial_4.loc.json",
+        "location_data_for_first_outpost": "Forest_20",
+        "chest": "TutorialChest4",
+        "no_timer": true,
+        "capture": true,
+        "gold": 15
+    },
+    {
+        "name": "Forest_NPC_1",
+        "tid": "TID_NPC_1_1",
+        "json": "npc/forest_npc_1.loc.json",
+        "chest": "Common",
+        "no_timer": true,
+        "gold": 15
+    }
+]

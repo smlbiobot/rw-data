@@ -1,0 +1,95 @@
+[
+    {
+        "name": "1",
+        "tid": "TID_HELICOPTER_LEVEL_1",
+        "upgrade_gold": 100,
+        "attack_housing": 3,
+        "airdrop_housing": 1,
+        "defence_housing": 4,
+        "locations": "Forest"
+    },
+    {
+        "name": "2",
+        "tid": "TID_HELICOPTER_LEVEL_2",
+        "upgrade_gold": 500,
+        "attack_housing": 5,
+        "airdrop_housing": 1,
+        "defence_housing": 5,
+        "locations": "Forest"
+    },
+    {
+        "name": "3",
+        "tid": "TID_HELICOPTER_LEVEL_3",
+        "upgrade_gold": 5000,
+        "attack_housing": 6,
+        "airdrop_housing": 1,
+        "defence_housing": 7,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity"
+        }
+    },
+    {
+        "name": "4",
+        "tid": "TID_HELICOPTER_LEVEL_4",
+        "upgrade_gold": 20000,
+        "attack_housing": 6,
+        "airdrop_housing": 1,
+        "defence_housing": 9,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity"
+        }
+    },
+    {
+        "name": "5",
+        "tid": "TID_HELICOPTER_LEVEL_5",
+        "upgrade_gold": 40000,
+        "attack_housing": 7,
+        "airdrop_housing": 2,
+        "defence_housing": 10,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity"
+        }
+    },
+    {
+        "name": "6",
+        "tid": "TID_HELICOPTER_LEVEL_6",
+        "upgrade_gold": 60000,
+        "attack_housing": 8,
+        "airdrop_housing": 2,
+        "defence_housing": 11,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity",
+            "2": "Desert"
+        }
+    },
+    {
+        "name": "7",
+        "tid": "TID_HELICOPTER_LEVEL_7",
+        "upgrade_gold": 100000,
+        "attack_housing": 9,
+        "airdrop_housing": 2,
+        "defence_housing": 12,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity",
+            "2": "Desert"
+        }
+    },
+    {
+        "name": "8",
+        "tid": "TID_HELICOPTER_LEVEL_8",
+        "upgrade_gold": 0,
+        "attack_housing": 10,
+        "airdrop_housing": 2,
+        "defence_housing": 13,
+        "locations": {
+            "0": "Forest",
+            "1": "Megacity",
+            "2": "Desert"
+        }
+    }
+]

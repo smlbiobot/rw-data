@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Update",
+        "id": 121,
+        "enabled": true,
+        "tid": "TID_NEWS_UPDATE_TITLE",
+        "info_tid": "TID_NEWS_UPDATE_TEXT",
+        "item_swf": "sc/ui.sc",
+        "item_export_name": "news_item",
+        "button_url": "http://clashroyale.com/blog/news/upcoming-balance-changes",
+        "button_tid": "TID_NEWS_ITEM_BUTTON"
+    }
+]

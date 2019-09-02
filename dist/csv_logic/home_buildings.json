@@ -1,0 +1,157 @@
+[
+    {
+        "name": "HOME_HQ",
+        "tid": "TID_BUILDING_HQ",
+        "info_tid": "TID_BUILDING_INFO_HQ",
+        "file_name": "sc/home_buildings.sc",
+        "export_name": {
+            "0": "b_hq_t1_01",
+            "1": "b_hq_t2_01",
+            "2": "b_hq_t3_01",
+            "3": "b_hq_t4_01",
+            "4": "b_hq_t5_01",
+            "5": "b_hq_t6_01",
+            "6": "b_hq_t7_01",
+            "7": "b_hq_t8_01"
+        },
+        "export_name_shadow": {
+            "0": "hq_shadow",
+            "1": "hq_shadow",
+            "2": "hq_shadow",
+            "3": "hq_shadow",
+            "4": "hq_shadow",
+            "5": "hq_shadow",
+            "6": "hq_shadow",
+            "7": "hq_shadow"
+        },
+        "width": 12,
+        "height": 12,
+        "scale": 100,
+        "shadow_scale_x": 92,
+        "shadow_scale_y": -100,
+        "max_stored_gold": {
+            "0": 1000,
+            "1": 2000,
+            "2": 10000,
+            "3": 40000,
+            "4": 80000,
+            "5": 120000,
+            "6": 200000,
+            "7": 300000
+        }
+    },
+    {
+        "name": "HOME_Helicopter",
+        "tid": "TID_BUILDING_HELICOPTER",
+        "info_tid": "TID_BUILDING_INFO_HELICOPTER",
+        "file_name": "sc/home_buildings.sc",
+        "export_name": {
+            "0": "b_heli_t1_01",
+            "1": "b_heli_t2_01",
+            "2": "b_heli_t3_01",
+            "3": "b_heli_t4_01",
+            "4": "b_heli_t5_01",
+            "5": "b_heli_t6_01",
+            "6": "b_heli_t7_01",
+            "7": "b_heli_t8_01"
+        },
+        "export_name_shadow": {
+            "0": "b_heli_t1_shadow_01",
+            "1": "b_heli_t1_shadow_01",
+            "2": "b_heli_t1_shadow_01",
+            "3": "b_heli_t1_shadow_01",
+            "4": "b_heli_t1_shadow_01",
+            "5": "b_heli_t1_shadow_01",
+            "6": "b_heli_t1_shadow_01",
+            "7": "b_heli_t1_shadow_01"
+        },
+        "export_name_construction": "b_heli_t1_01",
+        "width": 6,
+        "height": 6,
+        "scale": 90,
+        "shadow_scale_x": 90,
+        "shadow_scale_y": -90,
+        "shadow_x": -6,
+        "shadow_y": 5,
+        "shadow_skew": 15
+    },
+    {
+        "name": "HOME_Lab",
+        "tid": "TID_BUILDING_LABORATORY",
+        "info_tid": "TID_BUILDING_INFO_LABORATORY",
+        "file_name": "sc/home_buildings.sc",
+        "export_name": {
+            "0": "b_researchcenter_t1_01",
+            "1": "b_researchcenter_t2_01",
+            "2": "b_researchcenter_t3_01",
+            "3": "b_researchcenter_t4_01",
+            "4": "b_researchcenter_t5_01",
+            "5": "b_researchcenter_t6_01",
+            "6": "b_researchcenter_t7_01",
+            "7": "b_researchcenter_t8_01"
+        },
+        "export_name_shadow": {
+            "0": "researchcenter_shadow",
+            "1": "researchcenter_shadow",
+            "2": "researchcenter_shadow",
+            "3": "researchcenter_shadow",
+            "4": "researchcenter_shadow",
+            "5": "researchcenter_shadow",
+            "6": "researchcenter_shadow",
+            "7": "researchcenter_shadow"
+        },
+        "width": {
+            "2": 9,
+            "3": 16,
+            "4": 16
+        },
+        "height": 11,
+        "scale": 100,
+        "offset_y": {
+            "2": 15,
+            "3": 15,
+            "4": 16
+        },
+        "shadow_scale_x": {
+            "2": 100,
+            "3": 5000,
+            "4": 5000
+        },
+        "shadow_scale_y": {
+            "2": -105,
+            "3": -105,
+            "4": -105
+        }
+    },
+    {
+        "name": "HOME_FreeSupplyMarker",
+        "tid": "TID_BUILDING_SUPPLY",
+        "info_tid": "TID_BUILDING_INFO_SUPPLY",
+        "file_name": "sc/collectables.sc",
+        "export_name": "collectable_chest_base",
+        "width": 4,
+        "height": 4,
+        "scale": 100,
+        "shadow_scale_x": 100,
+        "shadow_scale_y": 100
+    },
+    {
+        "name": "HOME_Helicopterbase",
+        "tid": "TID_BUILDING_HELIBASE",
+        "info_tid": "TID_BUILDING_INFO_HELIBASE",
+        "file_name": "sc/home_buildings.sc",
+        "export_name": {
+            "0": "b_heli_t1_base_01",
+            "1": "b_heli_t1_base_01",
+            "2": "b_heli_t1_base_01",
+            "3": "b_heli_t2_base_01",
+            "4": "b_heli_t2_base_01",
+            "5": "b_heli_t2_base_01",
+            "6": "b_heli_t3_base_01",
+            "7": "b_heli_t3_base_01"
+        },
+        "width": 6,
+        "height": 6,
+        "scale": 90
+    }
+]

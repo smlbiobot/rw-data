@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ParentsGuide",
+        "helpshift_id": "2237"
+    },
+    {
+        "name": "Terms",
+        "helpshift_id": "2342"
+    },
+    {
+        "name": "LocationGuideIOS",
+        "helpshift_id": "3734"
+    },
+    {
+        "name": "LocationGuideAndroid",
+        "helpshift_id": "3735"
+    },
+    {
+        "name": "TournamentTerms",
+        "helpshift_id": "3736"
+    }
+]

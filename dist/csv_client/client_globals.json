@@ -1,0 +1,565 @@
+[
+    {
+        "name": "DEPLOY_ALPHA",
+        "number_value": 75
+    },
+    {
+        "name": "UDP_HEARTBEAT_MS",
+        "number_value": 200
+    },
+    {
+        "name": "UDP_DISCONNECTED_SECONDS",
+        "number_value": 2
+    },
+    {
+        "name": "UDP_DESTRUCT_ON_INVALID_CONNECTION",
+        "boolean_value": true
+    },
+    {
+        "name": "UNIT_SPEED_1",
+        "number_value": 50
+    },
+    {
+        "name": "UNIT_SPEED_2",
+        "number_value": 70
+    },
+    {
+        "name": "UNIT_SPEED_3",
+        "number_value": 90
+    },
+    {
+        "name": "UNIT_SPEED_4",
+        "number_value": 110
+    },
+    {
+        "name": "UNIT_SPEED_5",
+        "number_value": 130
+    },
+    {
+        "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_SMALL",
+        "number_value": 12
+    },
+    {
+        "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_MEDIUM",
+        "number_value": 120
+    },
+    {
+        "name": "COME_BACK_NOTIFICATION_DELAY_HOURS_LARGE",
+        "number_value": 336
+    },
+    {
+        "name": "GAME_FACEBOOK_URL"
+    },
+    {
+        "name": "PAYING_USER_EMAIL_ID",
+        "number_value": 249
+    },
+    {
+        "name": "GAME_CENTER_ACHIEVEMENTS_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "GAMECENTER_REAUTHORIZE"
+    },
+    {
+        "name": "GAME_CENTER_CHALLENGES_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "SHOW_SEASON_RESET_ON_HOME_ENTER",
+        "boolean_value": false
+    },
+    {
+        "name": "FAQ_URL",
+        "text_value": "0"
+    },
+    {
+        "name": "FORUMS_URL",
+        "text_value": "0"
+    },
+    {
+        "name": "FEEDBACK_EMAIL",
+        "text_value": "0"
+    },
+    {
+        "name": "LOW_GFX_DEVICES",
+        "string_array": {
+            "0": "ipod1",
+            "1": "ipod2",
+            "2": "ipod3",
+            "3": "ipod4",
+            "4": "ipod5",
+            "5": "ipad1",
+            "6": "ipad2",
+            "7": "iphone2",
+            "8": "iphone3"
+        }
+    },
+    {
+        "name": "MED_GFX_DEVICES"
+    },
+    {
+        "name": "LOW_MEM_DEVICES",
+        "string_array": {
+            "0": "ipod1",
+            "1": "ipod2",
+            "2": "ipod3",
+            "3": "ipod4",
+            "4": "ipad1",
+            "5": "ipad2",
+            "6": "iphone2"
+        }
+    },
+    {
+        "name": "MED_MEM_DEVICES"
+    },
+    {
+        "name": "LOW_GFX_DEVICES_ANDROID",
+        "string_array": {
+            "0": "st25i",
+            "1": "GT-N7000",
+            "2": "GT-i8190N",
+            "3": "U8950",
+            "4": "SM-T211",
+            "5": "i9300",
+            "6": "i8190",
+            "7": "i9305",
+            "8": "i9301",
+            "9": "i8200",
+            "10": "g3812b",
+            "11": "I535",
+            "12": "I747",
+            "13": "L710",
+            "14": "T999",
+            "15": "T210",
+            "16": "P3210",
+            "17": "SC-06D",
+            "18": "SC-03E",
+            "19": "I939",
+            "20": "E210S",
+            "21": "E210L",
+            "22": "E210K",
+            "23": "I9303",
+            "24": "G730A",
+            "25": "G730W8",
+            "26": "M440S",
+            "27": "R530U",
+            "28": "S968C",
+            "29": "SGH-N064",
+            "30": "SGH-N035",
+            "31": "SCH-J021",
+            "32": "SCH-R530",
+            "33": "SCH-S960L",
+            "34": "I9308"
+        }
+    },
+    {
+        "name": "HIGH_MEMORY_ANDROID",
+        "number_value": 820
+    },
+    {
+        "name": "MEDIUM_MEMORY_ANDROID",
+        "number_value": 600
+    },
+    {
+        "name": "SECTOR_COMMAND_MESSAGE_INTERVAL_SECONDS",
+        "number_value": 2
+    },
+    {
+        "name": "POPUP_SCALE_HORIZONTAL",
+        "boolean_value": true
+    },
+    {
+        "name": "POPUP_SCALE_HORIZONTAL_MARGIN",
+        "number_value": 20
+    },
+    {
+        "name": "POPUP_BLUR_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "POPUP_BLUR_PERCENT",
+        "number_value": 165
+    },
+    {
+        "name": "POPUP_BLUR_ITERATIONS",
+        "number_value": 4
+    },
+    {
+        "name": "ENABLE_FACEBOOK",
+        "boolean_value": true
+    },
+    {
+        "name": "ENABLE_GAMECENTER_FRIENDS",
+        "boolean_value": true
+    },
+    {
+        "name": "SWITCH_CONFIRMATION_XP_LEVEL",
+        "number_value": 4
+    },
+    {
+        "name": "PROMPT_GC_SWITCH_MIN_NPC_WINS",
+        "number_value": 0
+    },
+    {
+        "name": "PAYMENT_LIMIT_CONFIRMATION_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "PAYMENT_LIMIT_CONFIRMATION_USD",
+        "number_value": 15000
+    },
+    {
+        "name": "PAYMENT_LIMIT_CONFIRMATION_TIME",
+        "number_value": 15
+    },
+    {
+        "name": "CONFIRM_WORD_MAX_LENGTH",
+        "number_value": 15
+    },
+    {
+        "name": "DISCONNECT_IN_APPS",
+        "boolean_value": false
+    },
+    {
+        "name": "IN_APP_RETRY_LIMIT",
+        "number_value": 4
+    },
+    {
+        "name": "RETRY_PURCHASES_IN_SHOP",
+        "boolean_value": true
+    },
+    {
+        "name": "HELPSHIFT_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "BRANCH_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING"
+    },
+    {
+        "name": "USE_HELPSHIFT_SDK_LANGUAGE",
+        "boolean_value": true
+    },
+    {
+        "name": "EXTRA_HELPSHIFT_LANGUAGES"
+    },
+    {
+        "name": "HELPSHIFT_SHOW_CONTACT_UNTIL_EXP_LEVEL",
+        "number_value": 2
+    },
+    {
+        "name": "SEND_GC_ACHIVEMENT_0_PROGRESS",
+        "boolean_value": true
+    },
+    {
+        "name": "SEND_GC_ACHIVEMENT_PROGRESS_ONCE",
+        "boolean_value": true
+    },
+    {
+        "name": "USE_GC_SEND_ALL_ACHIEVEMENTS",
+        "boolean_value": true
+    },
+    {
+        "name": "KEEP_ALIVE_WARNING_MS",
+        "number_value": 10000
+    },
+    {
+        "name": "PING_WARNING_MS",
+        "number_value": 3500
+    },
+    {
+        "name": "ATTRIBUTION_MAT",
+        "boolean_value": true
+    },
+    {
+        "name": "ATTRIBUTION_FB"
+    },
+    {
+        "name": "ATTRIBUTION_IAD",
+        "boolean_value": true
+    },
+    {
+        "name": "APP_RATE_DIALOG_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "PURCHASE_DIALOG_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "NAME_CHANGE_START_LEVEL",
+        "number_value": 4
+    },
+    {
+        "name": "ENABLE_NAME_CHANGE",
+        "boolean_value": true
+    },
+    {
+        "name": "GOOGLE_ACHIEVEMENTS",
+        "boolean_value": true
+    },
+    {
+        "name": "SHADOW_BLUR_DISTANCE",
+        "number_value": 170
+    },
+    {
+        "name": "CONNECT_IOS_TO_KUNLUN",
+        "boolean_value": true
+    },
+    {
+        "name": "DISABLE_FB_IN_CHINA",
+        "boolean_value": true
+    },
+    {
+        "name": "PEPPER_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "ADMIN_MESSAGE_BUTTON_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "ADMIN_MESSAGES_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "CACHE_MAX_EXTRA_SC_FILES",
+        "number_value": 15
+    },
+    {
+        "name": "SEND_ACCOUNT_SWITCHED_MESSAGE_FROM_CONFIRM_POPUP",
+        "boolean_value": true
+    },
+    {
+        "name": "NAME_CHANGE_CONFIRM_CASE_SENSITIVE",
+        "boolean_value": false
+    },
+    {
+        "name": "RESET_STATICS_WHEN_CHANGING_ACCOUNT",
+        "boolean_value": true
+    },
+    {
+        "name": "CHINESE_ANDROID_APP_STORE_LOGIN_FAILED_MESSAGE",
+        "text_value": "\u6b64\u5fae\u4fe1/QQ\u5e10\u53f7\u5df2\u7ecf\u5173\u8054\u4e86\u4ece\u5176\u4ed6\u5b89\u5353\u5e94\u7528\u5546\u5e97\u4e0b\u8f7d\u7684\u76f8\u540c\u6e38\u620f\uff0c\u4e0d\u80fd\u518d\u6b21\u5173\u8054\u3002\u5982\u679c\u60a8\u5e0c\u671b\u4f7f\u7528\u8be5\u5fae\u4fe1/QQ\u5e10\u53f7\u91cd\u65b0\u5f00\u59cb\u6e38\u620f\uff0c\u8bf7\u4ece\u6e38\u620f\u5185\u8054\u7cfbSupercell\u73a9\u5bb6\u652f\u6301\u56e2\u961f\u3002"
+    },
+    {
+        "name": "TUTORIAL_HAND_FADE_IN_MS",
+        "number_value": 300
+    },
+    {
+        "name": "TUTORIAL_HAND_FADE_IN_AFTER_TARGET_CHANGES",
+        "boolean_value": true
+    },
+    {
+        "name": "LOAD_ASSETS_DURING_LOGIN",
+        "boolean_value": true
+    },
+    {
+        "name": "CHARACTER_ANGLE_INITIAL_FILTERING",
+        "boolean_value": true
+    },
+    {
+        "name": "UPDATE_TIER_FROM_SERVER",
+        "boolean_value": true
+    },
+    {
+        "name": "CONTENT_DOWNLOAD_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "CONTENT_DOWNLOAD_ENABLED_DURING_BATTLE",
+        "boolean_value": false
+    },
+    {
+        "name": "CONTENT_DOWNLOAD_ENABLED_DURING_NPC",
+        "boolean_value": true
+    },
+    {
+        "name": "CHINESE_GIFT",
+        "text_value": "\u8d60"
+    },
+    {
+        "name": "CHINA_REGULATIONS_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "ENABLE_BLOCK_ENTERING_GAME_FOR_MANDATORY_CONTENT",
+        "boolean_value": true
+    },
+    {
+        "name": "NO_MONEY_COLOR_RED",
+        "number_value": 255
+    },
+    {
+        "name": "NO_MONEY_COLOR_GREEN",
+        "number_value": 123
+    },
+    {
+        "name": "NO_MONEY_COLOR_BLUE",
+        "number_value": 114
+    },
+    {
+        "name": "AREA_DAMAGE_INDICATOR_DURATION_MS",
+        "number_value": 400
+    },
+    {
+        "name": "USE_HELPSHIFT_LINKS",
+        "boolean_value": false
+    },
+    {
+        "name": "TERMS_AND_CONDITIONS_HELPSHIFT_URL",
+        "text_value": "https://supercell.com/en/terms-of-service/"
+    },
+    {
+        "name": "IAP_INFO_KOREA_URL",
+        "text_value": "https://supercell.helpshift.com/a/rush-wars/?p=web&l=ko&s=privacy-policy-terms-of-service&f=korean-support---player-s-right-to-claim-a-refund"
+    },
+    {
+        "name": "TOS_URL",
+        "text_value": "http://supercell.com/en/terms-of-service/"
+    },
+    {
+        "name": "PRIVACY_POLICY_URL_JP",
+        "text_value": "http://supercell.com/en/privacy-policy/jp/"
+    },
+    {
+        "name": "TOS_URL_JP",
+        "text_value": "http://supercell.com/en/terms-of-service/jp/"
+    },
+    {
+        "name": "PRIVACY_POLICY_URL_KR",
+        "text_value": "http://supercell.com/en/privacy-policy/ko/"
+    },
+    {
+        "name": "TOS_URL_KR",
+        "text_value": "http://supercell.com/en/terms-of-service/ko/"
+    },
+    {
+        "name": "GAME_WEIBO_URL",
+        "text_value": "http://e.weibo.com/coc365"
+    },
+    {
+        "name": "GAME_APPBANK_URL",
+        "text_value": "http://game.appbank.net/FILL_ME/"
+    },
+    {
+        "name": "GAME_EXTERNAL_URL",
+        "text_value": "http://app.famitsu.com/?p=185000"
+    },
+    {
+        "name": "GAME_TWITTER_URL",
+        "text_value": "https://twitter.com/ClashOfClans/"
+    },
+    {
+        "name": "GAME_TWITTER_URL_JP",
+        "text_value": "https://twitter.com/ClashofClansJP"
+    },
+    {
+        "name": "PRIVACY_POLICY_URL",
+        "text_value": "http://www.supercell.net/privacy-policy"
+    },
+    {
+        "name": "PARENTS_GUIDE_URL",
+        "text_value": "http://www.supercell.net/parents"
+    },
+    {
+        "name": "LIVE_REPLAY_PRESIMULATE_MAX_TICKS_PER_FRAME",
+        "number_value": 120
+    },
+    {
+        "name": "LIVE_REPLAY_PRESIMULATE_MAX_TICKS_TOTAL",
+        "number_value": 14400
+    },
+    {
+        "name": "DEBUG_OUT_OF_SYNC",
+        "boolean_value": false
+    },
+    {
+        "name": "REPLAY_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "LIVE_REPLAY_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "ENABLE_CLAN_MAIL",
+        "boolean_value": true
+    },
+    {
+        "name": "GOOGLE_PLAY_LOGIN_ONLY_WHEN_NOT_LOGGED",
+        "boolean_value": true
+    },
+    {
+        "name": "USE_SIMPLE_BACKGROUND_ON_LOW_END",
+        "boolean_value": false
+    },
+    {
+        "name": "FORCE_REQUEST_FRIENDS_IN_HOME",
+        "boolean_value": true
+    },
+    {
+        "name": "FRIEND_INVITE_TOKEN_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
+        "number_value": 600
+    },
+    {
+        "name": "CACHE_FRIENDS_SECONDS",
+        "number_value": 120
+    },
+    {
+        "name": "DOMINATION_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "DEEPLINK_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "CLAN_INVITE_TOKEN_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
+        "number_value": 600
+    },
+    {
+        "name": "CHAT_ENABLED",
+        "boolean_value": true
+    },
+    {
+        "name": "USE_SOCIAL_TAB",
+        "boolean_value": true
+    },
+    {
+        "name": "OPEN_CARD_INFO_FROM_SHOP_CONFIRM_ENABLED",
+        "boolean_value": false
+    },
+    {
+        "name": "PHONE_BOOTH_TALK_SEQUENCE",
+        "number_value": 12
+    },
+    {
+        "name": "PHONE_BOOTH_TIPS",
+        "number_value": 20
+    },
+    {
+        "name": "USE_TOS_AND_PP_FIRST_POPUP",
+        "boolean_value": true
+    },
+    {
+        "name": "SHOW_CONTEXT_MENU_FOR_PLAYER",
+        "boolean_value": true
+    },
+    {
+        "name": "APP_RATE_XP_REQUIRED",
+        "number_value": 3
+    }
+]

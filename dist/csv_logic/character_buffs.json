@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Rage",
+        "tid": "TID_BUFF_RAGE",
+        "hit_speed_multiplier": 150,
+        "speed_multiplier": 150,
+        "spawn_speed_multiplier": 150,
+        "effect": "Spell_rage_hit_effect",
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_rage",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 125
+    },
+    {
+        "name": "Freeze",
+        "tid": "TID_BUFF_FREEZE",
+        "hit_speed_multiplier": -100,
+        "speed_multiplier": -100,
+        "spawn_speed_multiplier": -100,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold"
+    },
+    {
+        "name": "Poison",
+        "crown_tower_damage_percent": -60,
+        "damage_per_second": 57,
+        "hit_frequency": 1000,
+        "effect": "PoisonSteam",
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_poison",
+        "enable_stacking": true
+    },
+    {
+        "name": "IceWizardSlowDown",
+        "hit_speed_multiplier": -35,
+        "speed_multiplier": -35,
+        "spawn_speed_multiplier": -35,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 75
+    },
+    {
+        "name": "ZapFreeze",
+        "hit_speed_multiplier": -100,
+        "speed_multiplier": -100,
+        "spawn_speed_multiplier": -100,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold"
+    },
+    {
+        "name": "Tornado",
+        "crown_tower_damage_percent": -100,
+        "damage_per_second": 44,
+        "hit_frequency": 500,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_poison",
+        "mark_effect": "Healing",
+        "attract_percentage": 220,
+        "controlled_by_parent": true,
+        "enable_stacking": true
+    },
+    {
+        "name": "Clone",
+        "hit_speed_multiplier": -100,
+        "speed_multiplier": -100,
+        "spawn_speed_multiplier": -100,
+        "clone": true
+    },
+    {
+        "name": "Heal",
+        "tid": "TID_BUFF_HEAL",
+        "hit_frequency": 500,
+        "heal_per_second": 120,
+        "enable_stacking": true
+    },
+    {
+        "name": "Stun",
+        "tid": "TID_BUFF_STUN",
+        "hit_speed_multiplier": -100,
+        "speed_multiplier": -100,
+        "spawn_speed_multiplier": -100,
+        "effect": "character_stun"
+    },
+    {
+        "name": "Invisibility",
+        "invisible": true
+    },
+    {
+        "name": "Heal2",
+        "tid": "TID_BUFF_HEAL",
+        "hit_frequency": 50,
+        "heal_per_second": 300,
+        "enable_stacking": true
+    },
+    {
+        "name": "Frozen1",
+        "tid": "TID_BUFF_FREEZE",
+        "hit_speed_multiplier": -35,
+        "speed_multiplier": -35,
+        "spawn_speed_multiplier": -35,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 75,
+        "chained_buff": "Frozen2"
+    },
+    {
+        "name": "Frozen2",
+        "tid": "TID_BUFF_FREEZE",
+        "hit_speed_multiplier": -70,
+        "speed_multiplier": -70,
+        "spawn_speed_multiplier": -70,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 75,
+        "chained_buff": "Frozen3"
+    },
+    {
+        "name": "Frozen3",
+        "tid": "TID_BUFF_FREEZE",
+        "hit_speed_multiplier": -100,
+        "speed_multiplier": -100,
+        "spawn_speed_multiplier": -100,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_cold"
+    },
+    {
+        "name": "DashRage",
+        "tid": "TID_BUFF_RAGE",
+        "hit_speed_multiplier": 250,
+        "speed_multiplier": 250,
+        "effect": "Spell_rage_hit_effect",
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_rage",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 125
+    },
+    {
+        "name": "GotoHeli",
+        "speed_multiplier": 400
+    },
+    {
+        "name": "BerserkRage",
+        "tid": "TID_BUFF_RAGE",
+        "hit_speed_multiplier": 400,
+        "effect": "Spell_rage_hit_effect",
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_berserk",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 125
+    },
+    {
+        "name": "Tazer",
+        "tid": "TID_BUFF_TAZER",
+        "hit_speed_multiplier": -35,
+        "speed_multiplier": -35,
+        "spawn_speed_multiplier": -35,
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_tazer",
+        "mark_effect": "Healing",
+        "audio_pitch_modifier": 75
+    },
+    {
+        "name": "FlamerBurn",
+        "filter_file": "sc/effects.sc",
+        "filter_export_name": "filter_burn"
+    }
+]

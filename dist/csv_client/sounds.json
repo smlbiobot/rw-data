@@ -1,0 +1,1720 @@
+[
+    {
+        "name": "Rush_start",
+        "file_names": "sfx/rush_start_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_soldier_shoot",
+        "file_names": {
+            "0": "sfx/gi_mike_atk_03.wav",
+            "1": "sfx/gi_mike_atk_02.wav"
+        },
+        "min_volume": {
+            "0": 1,
+            "1": 1
+        },
+        "max_volume": {
+            "0": 1,
+            "1": 1
+        },
+        "min_pitch": {
+            "0": 93,
+            "1": 93
+        },
+        "max_pitch": {
+            "0": 107,
+            "1": 107
+        },
+        "priority": {
+            "0": 5,
+            "1": 5
+        },
+        "maximum_by_type": {
+            "0": 20,
+            "1": 20
+        },
+        "max_repeat_ms": {
+            "0": 30,
+            "1": 30
+        }
+    },
+    {
+        "name": "Rush_soldier_shoot_v2",
+        "file_names": {
+            "0": "sfx/gi_mike_atk_03.wav",
+            "1": "sfx/gi_mike_atk_02.wav"
+        },
+        "min_volume": {
+            "0": 25,
+            "1": 25
+        },
+        "max_volume": {
+            "0": 40,
+            "1": 40
+        },
+        "min_pitch": {
+            "0": 93,
+            "1": 93
+        },
+        "max_pitch": {
+            "0": 107,
+            "1": 107
+        },
+        "priority": {
+            "0": 5,
+            "1": 5
+        },
+        "maximum_by_type": {
+            "0": 20,
+            "1": 20
+        },
+        "max_repeat_ms": {
+            "0": 30,
+            "1": 30
+        }
+    },
+    {
+        "name": "Rush_shield_hit",
+        "file_names": "sfx/Shield_hit_01.wav",
+        "min_volume": 15,
+        "max_volume": 30,
+        "min_pitch": 80,
+        "max_pitch": 120,
+        "priority": 5,
+        "maximum_by_type": 100
+    },
+    {
+        "name": "Rush_explosion_grenade",
+        "file_names": "sfx/rush_grenade_explosion_01.wav",
+        "min_volume": 40,
+        "max_volume": 50,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 5
+    },
+    {
+        "name": "Rush_explosion_fireball",
+        "file_names": "sfx/rush_explosion_01.wav",
+        "min_volume": 70,
+        "max_volume": 90,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 5
+    },
+    {
+        "name": "Rush_collect_outpost",
+        "file_names": "sfx/rush_collect_outpost_02.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Rush_collect_gold",
+        "file_names": "sfx/collect_coins_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Rush_collect_stars",
+        "file_names": "sfx/collect_stars_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Rush_combat_get_1_star",
+        "file_names": "sfx/get_1_star.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Rush_combat_get_2_star",
+        "file_names": "sfx/get_2_star.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Rush_combat_get_3_star",
+        "file_names": "sfx/get_3_star.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 3
+    },
+    {
+        "name": "Button Pressed Down",
+        "file_names": "sfx/menu_click_02v2.wav",
+        "min_volume": 46,
+        "max_volume": 46,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Button Press Release",
+        "file_names": "sfx/menu_click_03v2.wav",
+        "min_volume": 46,
+        "max_volume": 46,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "ButtonClick",
+        "file_names": "sfx/button_click_02.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "ButtonClick2",
+        "file_names": "sfx/menu_click_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "tank_drive_loop",
+        "file_names": "sfx/tank_drive_loop_02v2.wav",
+        "min_volume": 0,
+        "max_volume": 30,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 5,
+        "loop": true
+    },
+    {
+        "name": "tank_attack",
+        "file_names": {
+            "0": "sfx/tank_fire_01.wav",
+            "1": "sfx/tank_fire_02.wav"
+        },
+        "min_volume": {
+            "0": 70,
+            "1": 70
+        },
+        "max_volume": {
+            "0": 70,
+            "1": 70
+        },
+        "min_pitch": {
+            "0": 95,
+            "1": 95
+        },
+        "max_pitch": {
+            "0": 105,
+            "1": 105
+        },
+        "priority": {
+            "0": 1,
+            "1": 1
+        },
+        "maximum_by_type": {
+            "0": 4,
+            "1": 4
+        }
+    },
+    {
+        "name": "tank_deploy",
+        "file_names": {
+            "0": "sfx/tank_deploy_01.wav",
+            "1": "sfx/tank_deploy_02.wav"
+        },
+        "min_volume": {
+            "0": 65,
+            "1": 65
+        },
+        "max_volume": {
+            "0": 65,
+            "1": 65
+        },
+        "min_pitch": {
+            "0": 95,
+            "1": 95
+        },
+        "max_pitch": {
+            "0": 105,
+            "1": 105
+        },
+        "priority": {
+            "0": 2,
+            "1": 2
+        },
+        "maximum_by_type": {
+            "0": 4,
+            "1": 4
+        }
+    },
+    {
+        "name": "tank_die",
+        "file_names": "sfx/explosion_02.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "shield_deploy",
+        "file_names": {
+            "0": "sfx/shieldguy_deploy_01.wav",
+            "1": "sfx/shieldguy_deploy_02.wav"
+        },
+        "min_volume": {
+            "0": 70,
+            "1": 70
+        },
+        "max_volume": {
+            "0": 70,
+            "1": 70
+        },
+        "min_pitch": {
+            "0": 95,
+            "1": 95
+        },
+        "max_pitch": {
+            "0": 105,
+            "1": 105
+        },
+        "priority": {
+            "0": 1,
+            "1": 1
+        },
+        "maximum_by_type": {
+            "0": 4,
+            "1": 4
+        }
+    },
+    {
+        "name": "soldier_deploy",
+        "file_names": "sfx/soldier_deploy_02.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "plumber_deploy",
+        "file_names": "sfx/plumber_deploy_01.wav",
+        "min_volume": 40,
+        "max_volume": 60,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 4,
+        "max_repeat_ms": 100,
+        "start_delay_min_ms": 0,
+        "start_delay_max_ms": 150
+    },
+    {
+        "name": "grenade_deploy",
+        "file_names": "sfx/grenade_deploy_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "rocket_deploy",
+        "file_names": "sfx/bazooka_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 60,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 6,
+        "max_repeat_ms": 100
+    },
+    {
+        "name": "apc_deploy",
+        "file_names": {
+            "0": "sfx/tank_deploy_01.wav",
+            "1": "sfx/tank_deploy_02.wav"
+        },
+        "min_volume": {
+            "0": 65,
+            "1": 65
+        },
+        "max_volume": {
+            "0": 65,
+            "1": 65
+        },
+        "min_pitch": {
+            "0": 95,
+            "1": 95
+        },
+        "max_pitch": {
+            "0": 105,
+            "1": 105
+        },
+        "priority": {
+            "0": 2,
+            "1": 2
+        },
+        "maximum_by_type": {
+            "0": 4,
+            "1": 4
+        }
+    },
+    {
+        "name": "Get_1_star",
+        "file_names": "sfx/victory_1st_star_02.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Get_2_star",
+        "file_names": "sfx/victory_2nd_star_02.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Get_3_star",
+        "file_names": "sfx/victory_3rd_star_02.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "heli_land",
+        "file_names": "sfx/rush_heli_land_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "laser_shoot",
+        "file_names": "sfx/laser_cannon_05.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "shotgun_shoot",
+        "file_names": "sfx/soldier_attack_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "grenade_throw",
+        "file_names": "sfx/throw_grenadegirl_02.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "start_delay_min_ms": 300,
+        "start_delay_max_ms": 300
+    },
+    {
+        "name": "grenade_throw_no_delay",
+        "file_names": "sfx/throw_grenadegirl_02.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Chest_preopenland",
+        "file_names": "sfx/rush_chestland_01.wav",
+        "min_volume": 90,
+        "max_volume": 90,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Card_popup",
+        "file_names": "sfx/rush_cardpopup_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Rush_loading",
+        "file_names": "sfx/rush_loading_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_ingame_top_star",
+        "file_names": "sfx/rush_top_star_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Get_coin",
+        "file_names": "sfx/coin1.wav",
+        "min_volume": 30,
+        "max_volume": 30,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Get_one_5star",
+        "file_names": "sfx/5star_getone_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Key_in",
+        "file_names": "sfx/rush_key_in_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_text_in",
+        "file_names": "sfx/rush_text_in_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "start_delay_min_ms": 550,
+        "start_delay_max_ms": 550
+    },
+    {
+        "name": "Rush_text_out",
+        "file_names": "sfx/rush_text_out_01.wav",
+        "min_volume": 40,
+        "max_volume": 40,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Starbox_explo",
+        "file_names": "sfx/rush_starbox_explo_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 97,
+        "max_pitch": 103,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_die",
+        "file_names": "sfx/rush_die_01.wav",
+        "min_volume": 20,
+        "max_volume": 40,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 2,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 150
+    },
+    {
+        "name": "Rush_chest_down",
+        "file_names": "sfx/rush_chest_down_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Mine_explo",
+        "file_names": "sfx/rush_mine_explo_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Grenade_explo",
+        "file_names": "sfx/rush_grenade_explo_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Airstrike_explo",
+        "file_names": "sfx/rush_rocket_explo_01.wav",
+        "min_volume": 60,
+        "max_volume": 80,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 2,
+        "maximum_by_type": 20,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Rush_barrel_explo",
+        "file_names": "sfx/rush_barrel_explo_01.wav",
+        "min_volume": 40,
+        "max_volume": 60,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Rush_tank_hit_explo",
+        "file_names": "sfx/tank_hit_explo_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Rush_mortar_explo",
+        "file_names": "sfx/mortar_explo_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Rush_rocket_explo",
+        "file_names": "sfx/rocket_explo_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Rush_gorilla_dep",
+        "file_names": "sfx/gorilla_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5
+    },
+    {
+        "name": "Rush_jetpack_dep",
+        "file_names": "sfx/jetpack_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_bninja_dep",
+        "file_names": "sfx/nunchuck_dp_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_kungfu_dep",
+        "file_names": "sfx/kungfu_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_shotgun_dep",
+        "file_names": "sfx/shotgun_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_laser_dep",
+        "file_names": "sfx/laser_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_minimen_dep",
+        "file_names": "sfx/minimen_dep_02.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_flamo_deploy",
+        "file_names": "sfx/flamo_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_boxer_deploy",
+        "file_names": "sfx/boxer_deploy_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_mortar_fire",
+        "file_names": "sfx/rush_mortar_fire_02.wav",
+        "min_volume": 50,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_cannon_fire",
+        "file_names": "sfx/rush_cannon_fire_02.wav",
+        "min_volume": 50,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_shieldg_shoot",
+        "file_names": "sfx/shield_shoot_01.wav",
+        "min_volume": 40,
+        "max_volume": 60,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_bazooka_fire_01",
+        "file_names": "sfx/bazooka_bill_fire_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_boxer_atk",
+        "file_names": "sfx/boxer_atk_01.wav",
+        "min_volume": 60,
+        "max_volume": 70,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_boxer_hit",
+        "file_names": "sfx/boxer_hit_01.wav",
+        "min_volume": 70,
+        "max_volume": 80,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_deploy_bomb",
+        "file_names": "sfx/rush_bomb_deploy_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 96,
+        "max_pitch": 104,
+        "priority": 2,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_unused_2_coin",
+        "file_names": "sfx/unused_2_coin_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1
+    },
+    {
+        "name": "Rush_slowmo_start",
+        "file_names": "sfx/rush_slowdown_04.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_slowmo_loop",
+        "file_names": "sfx/rush_slow_mo_01.wav",
+        "min_volume": 40,
+        "max_volume": 40,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "loop": true
+    },
+    {
+        "name": "Rush_slowmo_end",
+        "file_names": "sfx/rush_speedup_04.wav",
+        "min_volume": 1,
+        "max_volume": 1,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "max_repeat_ms": 300
+    },
+    {
+        "name": "Rush_place_cannon",
+        "file_names": "sfx/place_cannon_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_place_hole",
+        "file_names": "sfx/place_shelter_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_wall_place",
+        "file_names": "sfx/rush_wall_place_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_char_upgrade_seq_01",
+        "file_names": "sfx/rush_char_upgrade_seq_1.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_char_upgrade_seq_02",
+        "file_names": "sfx/rush_char_upgrade_seq_2.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_char_upgrade_seq_03",
+        "file_names": "sfx/rush_char_upgrade_seq_3.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_char_upgrade_stat_count",
+        "file_names": "sfx/rush_stat_counter_04.wav",
+        "min_volume": 20,
+        "max_volume": 20,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 20,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Rush_press_upgrade_card",
+        "file_names": "sfx/press_upgrade_card_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_deploy_mine",
+        "file_names": "sfx/rush_place_mine_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1
+    },
+    {
+        "name": "Rush_drop_arcade",
+        "file_names": "sfx/rush_arcade_cabinet_drop_02.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "start_delay_min_ms": 300,
+        "start_delay_max_ms": 300
+    },
+    {
+        "name": "Rush_arcade_explo",
+        "file_names": "sfx/rush_arcade_explo_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_heal",
+        "file_names": "sfx/rush_heal_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_invis",
+        "file_names": "sfx/rush_invis_03.wav",
+        "min_volume": 55,
+        "max_volume": 55,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_ghost_deploy",
+        "file_names": "sfx/rush_ghostgirl_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_use_key_chest",
+        "file_names": "sfx/rush_use_key_chest_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Get_gem",
+        "file_names": "sfx/rush_get_gem_02.wav",
+        "min_volume": 30,
+        "max_volume": 30,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Get_card",
+        "file_names": "sfx/rush_get_card_01.wav",
+        "min_volume": 30,
+        "max_volume": 30,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Get_exp",
+        "file_names": "sfx/rush_get_xp_02.wav",
+        "min_volume": 30,
+        "max_volume": 30,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 20
+    },
+    {
+        "name": "Get_star",
+        "file_names": "sfx/rush_get_star_01.wav",
+        "min_volume": 30,
+        "max_volume": 30,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12,
+        "max_repeat_ms": 30
+    },
+    {
+        "name": "Gain_xp_level",
+        "file_names": "sfx/rush_gain_xp_level_01.wav",
+        "min_volume": 40,
+        "max_volume": 40,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 2
+    },
+    {
+        "name": "Heli_takeoff",
+        "file_names": "sfx/rush_heli_take_off_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 2
+    },
+    {
+        "name": "Rush_upgrade_building",
+        "file_names": "sfx/rush_upgrade_building_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 2
+    },
+    {
+        "name": "Rush_collect_goldmine",
+        "file_names": "sfx/rush_collect_gold_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 2
+    },
+    {
+        "name": "Rush_chest_fall_from_sky",
+        "file_names": "sfx/rush_chest_drop_sky_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 2
+    },
+    {
+        "name": "Rush_get_unknown_card",
+        "file_names": "sfx/rush_new_card_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_tazer_gang_atk",
+        "file_names": "sfx/tazer_gang_zap_01.wav",
+        "min_volume": 20,
+        "max_volume": 30,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 8,
+        "max_repeat_ms": 80
+    },
+    {
+        "name": "Rush_kung_fu_atk",
+        "file_names": "sfx/kungfu_atk_01.wav",
+        "min_volume": 30,
+        "max_volume": 40,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 8,
+        "max_repeat_ms": 80
+    },
+    {
+        "name": "Rush_kung_fu_dep",
+        "file_names": "sfx/kungfu_dep_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 70
+    },
+    {
+        "name": "Rush_plasma_fire",
+        "file_names": "sfx/rush_plasma_fire_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 98,
+        "max_pitch": 102,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_gatlin_fire",
+        "file_names": "sfx/gatlin_fire_01.wav",
+        "min_volume": 20,
+        "max_volume": 35,
+        "min_pitch": 80,
+        "max_pitch": 90,
+        "priority": 1,
+        "maximum_by_type": 10,
+        "max_repeat_ms": 10
+    },
+    {
+        "name": "Rush_freezer",
+        "file_names": "sfx/rush_freezer_02.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "max_repeat_ms": 1000
+    },
+    {
+        "name": "Rush_freeze_trap",
+        "file_names": "sfx/rush_freeze_trap.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 1,
+        "max_repeat_ms": 1000
+    },
+    {
+        "name": "Rush_jetpackshoot",
+        "file_names": "sfx/rush_jetpackshoot_01.wav",
+        "min_volume": 40,
+        "max_volume": 50,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_rage",
+        "file_names": "sfx/rush_rage_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_rocket_truck_fire",
+        "file_names": "sfx/rocket_truck_fire_01.wav",
+        "min_volume": 50,
+        "max_volume": 70,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_tesla_deploy",
+        "file_names": "sfx/deploy_tesla_01.wav",
+        "min_volume": 65,
+        "max_volume": 65,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_tesla_atk",
+        "file_names": "sfx/tesla_atk_01.wav",
+        "min_volume": 40,
+        "max_volume": 50,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 100
+    },
+    {
+        "name": "Rush_para",
+        "file_names": "sfx/rush_para_01.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_heli_deploy",
+        "file_names": "sfx/heli_deploy_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_sattelite_drop",
+        "file_names": "sfx/sattelite_drop_01.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Grass_Pop",
+        "file_names": {
+            "0": "sfx/grass_pop_04.wav",
+            "1": "sfx/grass_pop_05.wav",
+            "2": "sfx/grass_pop_06.wav",
+            "3": "sfx/grass_pop_07.wav"
+        },
+        "min_volume": {
+            "0": 40,
+            "1": 40,
+            "2": 40,
+            "3": 40
+        },
+        "max_volume": {
+            "0": 60,
+            "1": 60,
+            "2": 60,
+            "3": 60
+        },
+        "min_pitch": {
+            "0": 90,
+            "1": 90,
+            "2": 90,
+            "3": 90
+        },
+        "max_pitch": {
+            "0": 110,
+            "1": 110,
+            "2": 110,
+            "3": 110
+        },
+        "priority": {
+            "0": 1,
+            "1": 1,
+            "2": 1,
+            "3": 1
+        },
+        "maximum_by_type": {
+            "0": 3,
+            "1": 3,
+            "2": 3,
+            "3": 3
+        }
+    },
+    {
+        "name": "Rush_break_wood",
+        "file_names": "sfx/rush_break_wood.wav",
+        "min_volume": 40,
+        "max_volume": 60,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 200,
+        "start_delay_min_ms": 0,
+        "start_delay_max_ms": 75
+    },
+    {
+        "name": "Rush_trap_showup",
+        "file_names": "sfx/rush_trap_showup.wav",
+        "min_volume": 40,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 150
+    },
+    {
+        "name": "Rush_damage_laser",
+        "file_names": "sfx/rush_damage_laser.wav",
+        "min_volume": 40,
+        "max_volume": 60,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 5,
+        "max_repeat_ms": 150
+    },
+    {
+        "name": "Rush_heli_attack",
+        "file_names": "sfx/heli_atk_01.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_bear_berserk",
+        "file_names": "sfx/bear_berserk.wav",
+        "min_volume": 85,
+        "max_volume": 85,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_bearman_atk",
+        "file_names": "sfx/bear_atk.wav",
+        "min_volume": 50,
+        "max_volume": 65,
+        "min_pitch": 95,
+        "max_pitch": 105,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_dino_laser",
+        "file_names": "sfx/dino_laser.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 200
+    },
+    {
+        "name": "Rush_dino_jump",
+        "file_names": "sfx/dino_jump.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Eggtank_deploy",
+        "file_names": "sfx/eggtank_deploy_units.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_generic_die",
+        "file_names": "sfx/rush_generic_die_2.wav",
+        "min_volume": 30,
+        "max_volume": 50,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 3,
+        "max_repeat_ms": 200,
+        "start_delay_min_ms": 0,
+        "start_delay_max_ms": 125
+    },
+    {
+        "name": "Rush_dummy_lose_hat",
+        "file_names": "sfx/rush_target_dummy_lose_hat.wav",
+        "min_volume": 75,
+        "max_volume": 75,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_dummy_take_dmg",
+        "file_names": {
+            "0": "sfx/rush_target_dummy_take_damage.wav",
+            "1": "sfx/rush_target_dummy_take_damage2.wav",
+            "2": "sfx/rush_target_dummy_take_damage3.wav"
+        },
+        "min_volume": {
+            "0": 40,
+            "1": 40,
+            "2": 40
+        },
+        "max_volume": {
+            "0": 55,
+            "1": 55,
+            "2": 55
+        },
+        "min_pitch": {
+            "0": 95,
+            "1": 95,
+            "2": 95
+        },
+        "max_pitch": {
+            "0": 105,
+            "1": 105,
+            "2": 105
+        },
+        "priority": {
+            "0": 1,
+            "1": 1,
+            "2": 1
+        },
+        "maximum_by_type": {
+            "0": 3,
+            "1": 3,
+            "2": 3
+        },
+        "max_repeat_ms": {
+            "0": 300,
+            "1": 300,
+            "2": 300
+        }
+    },
+    {
+        "name": "Rush_tap_building",
+        "file_names": "sfx/rush_tap_building_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 3
+    },
+    {
+        "name": "Rush_defence_star_count",
+        "file_names": "sfx/rush_defence_star_count_01.wav",
+        "min_volume": 20,
+        "max_volume": 20,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 10
+    },
+    {
+        "name": "Rush_plumber_atk",
+        "file_names": "sfx/plumber_attack_01.wav",
+        "min_volume": 20,
+        "max_volume": 40,
+        "min_pitch": 90,
+        "max_pitch": 110,
+        "priority": 1,
+        "maximum_by_type": 8,
+        "max_repeat_ms": 80
+    },
+    {
+        "name": "CardPack1_open",
+        "file_names": "sfx/rush_chest_open_02.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "CardPack2_open",
+        "file_names": "sfx/rush_chest_open_02.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "CardPack3_open",
+        "file_names": "sfx/rush_chest_open_02.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Common_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Rare_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Epic_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Mega_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Free_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Defence_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Domination1_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Domination2_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Domination3_open",
+        "file_names": "sfx/rush_chest_open_01.wav",
+        "min_volume": 80,
+        "max_volume": 80,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Get_key",
+        "file_names": "sfx/rush_get_key_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Building_upgrade_stat",
+        "file_names": "sfx/rush_char_upgrade_seq_2.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Card_unlock",
+        "file_names": "sfx/rush_new_cards_01.wav",
+        "min_volume": 60,
+        "max_volume": 60,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 12
+    },
+    {
+        "name": "Rush_new_league",
+        "file_names": "sfx/rush_new_league.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Rush_season_end",
+        "file_names": "sfx/rush_season_end_01.wav",
+        "min_volume": 70,
+        "max_volume": 70,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 4
+    },
+    {
+        "name": "Rush_phone_ring",
+        "file_names": "sfx/phone_ring_01.wav",
+        "min_volume": 50,
+        "max_volume": 50,
+        "min_pitch": 100,
+        "max_pitch": 100,
+        "priority": 1,
+        "maximum_by_type": 5
+    }
+]

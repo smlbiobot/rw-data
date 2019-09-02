@@ -1,0 +1,96 @@
+[
+    {
+        "name": "NPC1_Start_Delay",
+        "npc": "Tutorial_1",
+        "wait_time_ms": 1500,
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true,
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "NPC1_Intro",
+        "npc": "Tutorial_1",
+        "end_condition": "RemoveTooltip",
+        "dependency": "NPC1_Start_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_INTRO",
+        "block_input": true,
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "NPC1_Place_Unit",
+        "npc": "Tutorial_1",
+        "end_condition": "PlaceTroop",
+        "drag_export_name": "Tutorial_Hand1",
+        "target_card": "Soldier",
+        "unit_tile_x": 12,
+        "unit_tile_y": 14,
+        "dependency": "NPC1_Intro"
+    },
+    {
+        "name": "NPC3_Start_Delay",
+        "npc": "Tutorial_3",
+        "wait_time_ms": 1500,
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true,
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "NPC3_Intro",
+        "npc": "Tutorial_3",
+        "end_condition": "RemoveTooltip",
+        "dependency": "NPC3_Start_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_AIRDROP",
+        "block_input": true,
+        "reticle_x": 38,
+        "reticle_y": 7,
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "NPC3_Shoot",
+        "npc": "Tutorial_3",
+        "end_condition": "PlaceAirdrop",
+        "drag_export_name": "Tutorial_Hand1",
+        "target_card": "ArcadeDrop",
+        "unit_tile_x": 38,
+        "unit_tile_y": 7,
+        "dependency": "NPC3_Intro",
+        "reticle_x": 38,
+        "reticle_y": 7
+    },
+    {
+        "name": "NPC4_Start_Delay",
+        "npc": "Tutorial_4",
+        "wait_time_ms": 1500,
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true,
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "NPC4_Intro",
+        "npc": "Tutorial_4",
+        "end_condition": "RemoveTooltip",
+        "dependency": "NPC4_Start_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_LAST_TUTORIAL",
+        "hide_battle_lineup": true
+    },
+    {
+        "name": "Commander_Delay",
+        "disabled": true,
+        "wait_time_ms": 1500,
+        "pre_condition": "CommanderUnlocked",
+        "tutorial_character_export_name": "tutorial_input_blocker",
+        "block_input": true
+    },
+    {
+        "name": "Commander_Info",
+        "disabled": true,
+        "end_condition": "RemoveTooltip",
+        "dependency": "Commander_Delay",
+        "tutorial_character_export_name": "tutorial_character",
+        "commander_text": "TID_COMMANDER_TEXT_HELP_COMMANDER",
+        "block_input": true
+    }
+]

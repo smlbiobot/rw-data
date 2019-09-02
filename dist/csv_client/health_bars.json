@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Small",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_player_small",
+        "enemy_export_name": "hp_enemy_small",
+        "no_damage_player_export_name": "hp_player_number",
+        "no_damage_enemy_export_name": "hp_enemy_number",
+        "minimum_hitpoint_value": 0,
+        "show_enemy_always": true
+    },
+    {
+        "name": "Medium",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_player_medium",
+        "enemy_export_name": "hp_enemy_medium",
+        "no_damage_player_export_name": "hp_player_number",
+        "no_damage_enemy_export_name": "hp_enemy_number",
+        "minimum_hitpoint_value": 75,
+        "show_enemy_always": true
+    },
+    {
+        "name": "High",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_player_high",
+        "enemy_export_name": "hp_enemy_high",
+        "no_damage_player_export_name": "hp_player_number",
+        "no_damage_enemy_export_name": "hp_enemy_number",
+        "minimum_hitpoint_value": 150,
+        "show_enemy_always": true
+    },
+    {
+        "name": "Shield",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_shield_player_medium",
+        "enemy_export_name": "hp_shield_enemy_medium",
+        "no_damage_player_export_name": "hp_shield_player_number",
+        "no_damage_enemy_export_name": "hp_shield_enemy_number",
+        "show_enemy_always": true
+    },
+    {
+        "name": "Shield_small",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_shield_player_small",
+        "enemy_export_name": "hp_shield_enemy_small",
+        "no_damage_player_export_name": "hp_shield_player_number",
+        "no_damage_enemy_export_name": "hp_shield_enemy_number",
+        "show_enemy_always": true
+    },
+    {
+        "name": "MediumShield",
+        "file_name": "sc/ui.sc",
+        "player_export_name": "hp_shield_player_medium",
+        "enemy_export_name": "hp_shield_enemy_medium",
+        "no_damage_player_export_name": "hp_shield_player_number",
+        "no_damage_enemy_export_name": "hp_shield_enemy_number",
+        "show_enemy_always": true,
+        "show_as_shield": true
+    }
+]

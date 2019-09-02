@@ -1,0 +1,730 @@
+[
+    {
+        "name": "welcome message",
+        "tid": "TID_HINT_WELCOME",
+        "max_npc_wins": 6
+    },
+    {
+        "name": "winning condition1",
+        "tid": "TID_HINT_WINNING_CONDITION1",
+        "min_npc_wins": 2,
+        "max_arena": 1
+    },
+    {
+        "name": "winning condition2",
+        "tid": "TID_HINT_WINNING_CONDITION2",
+        "min_npc_wins": 2,
+        "max_arena": 1
+    },
+    {
+        "name": "elixir basics1",
+        "tid": "TID_HINT_ELIXIR_BASICS1",
+        "min_npc_wins": 4,
+        "max_arena": 1
+    },
+    {
+        "name": "elixir basics2",
+        "tid": "TID_HINT_ELIXIR_BASICS2",
+        "min_npc_wins": 4,
+        "max_arena": 1
+    },
+    {
+        "name": "elixir basics3",
+        "tid": "TID_HINT_ELIXIR_BASICS3",
+        "min_npc_wins": 4,
+        "max_arena": 1
+    },
+    {
+        "name": "exp level1",
+        "tid": "TID_HINT_EXP_LEVEL1",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "exp level2",
+        "tid": "TID_HINT_EXP_LEVEL2",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "battle basics1",
+        "tid": "TID_HINT_BATTLE_BASICS1",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "battle basics2",
+        "tid": "TID_HINT_BATTLE_BASICS2",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "join clan",
+        "tid": "TID_HINT_JOIN_CLAN",
+        "not_been_in_clan": true,
+        "min_exp_level": 3
+    },
+    {
+        "name": "tv royale",
+        "tid": "TID_HINT_TV_ROYALE",
+        "min_arena": 1,
+        "max_arena": 3
+    },
+    {
+        "name": "arrows",
+        "tid": "TID_HINT_ARROWS",
+        "min_npc_wins": 6,
+        "max_arena": 2
+    },
+    {
+        "name": "giant",
+        "tid": "TID_HINT_GIANT",
+        "min_npc_wins": 6,
+        "max_arena": 2
+    },
+    {
+        "name": "knight and archers",
+        "tid": "TID_HINT_KIGHT_AND_ARCHERS",
+        "min_arena": 1,
+        "max_arena": 1
+    },
+    {
+        "name": "area damage",
+        "tid": "TID_HINT_AREA_DAMAGE",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "free chest",
+        "tid": "TID_HINT_FREE_CHEST",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "match duration",
+        "tid": "TID_HINT_MATCH_DURATION",
+        "min_arena": 1,
+        "max_arena": 3
+    },
+    {
+        "name": "overtime",
+        "tid": "TID_HINT_OVERTIME",
+        "min_arena": 1,
+        "max_arena": 3
+    },
+    {
+        "name": "card types",
+        "tid": "TID_HINT_CARD_TYPES",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "card rarities",
+        "tid": "TID_HINT_CARD_RARITIES",
+        "min_arena": 1,
+        "max_arena": 7
+    },
+    {
+        "name": "deck basics1",
+        "tid": "TID_HINT_DECK_BASICS1",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "deck basics2",
+        "tid": "TID_HINT_DECK_BASICS2",
+        "min_arena": 1,
+        "max_arena": 1
+    },
+    {
+        "name": "achievements",
+        "tid": "TID_HINT_ACHIEVEMENT_GEMS",
+        "min_exp_level": 3,
+        "max_exp_level": 6
+    },
+    {
+        "name": "clan rewards",
+        "tid": "TID_HINT_DONATE_REWARDS",
+        "min_exp_level": 3,
+        "max_exp_level": 6
+    },
+    {
+        "name": "king activation",
+        "tid": "TID_HINT_KING_ACTIVATION",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "king daughters",
+        "tid": "TID_HINT_KING_DAUGHTERS",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "story1",
+        "tid": "TID_HINT_STORY1",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "building lifetime",
+        "tid": "TID_HINT_BUILDING_LIFETIME",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "crown towers",
+        "tid": "TID_HINT_TOWER_TARGETING",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "building targeting",
+        "tid": "TID_HINT_BUILDINGS",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "common max level",
+        "tid": "TID_HINT_COMMON_MAX_LEVEL",
+        "min_exp_level": 8
+    },
+    {
+        "name": "rare max level",
+        "tid": "TID_HINT_RARE_MAX_LEVEL",
+        "min_exp_level": 8
+    },
+    {
+        "name": "epic max level",
+        "tid": "TID_HINT_EPIC_MAX_LEVEL",
+        "min_exp_level": 8
+    },
+    {
+        "name": "card upgrades",
+        "tid": "TID_HINT_CARD_UPGRADES",
+        "min_arena": 1,
+        "max_arena": 2
+    },
+    {
+        "name": "card unlocks",
+        "tid": "TID_HINT_CARD_UNLOCKS",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "card shop",
+        "tid": "TID_HINT_SHOP_CYCLE",
+        "min_arena": 1,
+        "max_arena": 4
+    },
+    {
+        "name": "chest basics1",
+        "tid": "TID_HINT_CHEST_BASICS1",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "chest basics2",
+        "tid": "TID_HINT_CHEST_BASICS2",
+        "min_arena": 2,
+        "max_arena": 6
+    },
+    {
+        "name": "chest basics3",
+        "tid": "TID_HINT_CHEST_BASICS3",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "chest basics4",
+        "tid": "TID_HINT_CHEST_BASICS4",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "chest_basics5",
+        "tid": "TID_HINT_CHEST_BASICS5",
+        "min_arena": 3,
+        "max_arena": 6
+    },
+    {
+        "name": "matchmaking",
+        "tid": "TID_HINT_MATCHMAKING",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "bomb tower",
+        "tid": "TID_HINT_BOMB_TOWER",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "tank1",
+        "tid": "TID_HINT_TANK1",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "tank2",
+        "tid": "TID_HINT_TANK2",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "prince",
+        "tid": "TID_HINT_PRINCE",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "tesla",
+        "tid": "TID_HINT_BATTLE_TESLA",
+        "min_arena": 4,
+        "max_arena": 5
+    },
+    {
+        "name": "deploy area",
+        "tid": "TID_HINT_DEPLOY_AREA",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "taunts",
+        "tid": "TID_HINT_TAUNTS",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "three crowns",
+        "tid": "TID_HINT_THREE_CROWNS",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "balloon",
+        "tid": "TID_HINT_BALLOON",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "double elixir",
+        "tid": "TID_HINT_DOUBLE_ELIXIR",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "huts",
+        "tid": "TID_HINT_HUTS",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "tombstone",
+        "tid": "TID_HINT_TOMBSTONE",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "rage",
+        "tid": "TID_HINT_RAGE",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "direct damage",
+        "tid": "TID_HINT_DIRECT_DAMAGE",
+        "min_arena": 3,
+        "max_arena": 4
+    },
+    {
+        "name": "elixir basics4",
+        "tid": "TID_HINT_MAX_ELIXIR",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "starting hand",
+        "tid": "TID_HINT_STARTING_HAND",
+        "min_arena": 2,
+        "max_arena": 3
+    },
+    {
+        "name": "crown chest",
+        "tid": "TID_HINT_CROWN_CHEST",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "pro1",
+        "tid": "TID_HINT_BATTLE_PRO1",
+        "min_arena": 3
+    },
+    {
+        "name": "pro2",
+        "tid": "TID_HINT_BATTLE_PRO2",
+        "min_arena": 3
+    },
+    {
+        "name": "pro3",
+        "tid": "TID_HINT_BATTLE_PRO3",
+        "min_arena": 5
+    },
+    {
+        "name": "pro4",
+        "tid": "TID_HINT_BATTLE_PRO4",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "pro5",
+        "tid": "TID_HINT_BATTLE_PRO5",
+        "min_arena": 5
+    },
+    {
+        "name": "targeting",
+        "tid": "TID_HINT_TARGETING",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "inferno",
+        "tid": "TID_HINT_INFERNO",
+        "min_arena": 4,
+        "max_arena": 5
+    },
+    {
+        "name": "giant skeleton",
+        "tid": "TID_HINT_GIANT_SKELETON",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "epic sunday",
+        "tid": "TID_HINT_EPIC_SUNDAY",
+        "min_arena": 2,
+        "max_arena": 5
+    },
+    {
+        "name": "gems from chests",
+        "tid": "TID_HINT_GEMS_FROM_CHESTS",
+        "min_arena": 2,
+        "max_arena": 5
+    },
+    {
+        "name": "hog rider",
+        "tid": "TID_HINT_HOG_RIDER",
+        "min_arena": 4
+    },
+    {
+        "name": "golem1",
+        "tid": "TID_HINT_GOLEM1",
+        "min_arena": 6
+    },
+    {
+        "name": "golem2",
+        "tid": "TID_HINT_GOLEM2",
+        "min_arena": 6
+    },
+    {
+        "name": "golem3",
+        "tid": "TID_HINT_GOLEM3",
+        "min_arena": 6
+    },
+    {
+        "name": "pekkas",
+        "tid": "TID_HINT_PEKKAS",
+        "min_arena": 2,
+        "max_arena": 6
+    },
+    {
+        "name": "trophy count",
+        "tid": "TID_HINT_TROPHY_COUNT",
+        "min_arena": 3,
+        "max_arena": 5
+    },
+    {
+        "name": "lightning",
+        "tid": "TID_HINT_LIGHTNING",
+        "min_arena": 2,
+        "max_arena": 4
+    },
+    {
+        "name": "bomber",
+        "tid": "TID_HINT_BOMBER",
+        "min_arena": 1,
+        "max_arena": 2
+    },
+    {
+        "name": "pekka",
+        "tid": "TID_HINT_PEKKA",
+        "min_arena": 4
+    },
+    {
+        "name": "wizard",
+        "tid": "TID_HINT_WIZARD",
+        "min_arena": 5
+    },
+    {
+        "name": "friendly battles1",
+        "tid": "TID_HINT_FRIENDLY_BATTLES1",
+        "min_exp_level": 3
+    },
+    {
+        "name": "friendly battles2",
+        "tid": "TID_HINT_FRIENDLY_BATTLES2",
+        "min_exp_level": 3
+    },
+    {
+        "name": "friendly battles3",
+        "tid": "TID_HINT_FRIENDLY_BATTLES3",
+        "min_exp_level": 3
+    },
+    {
+        "name": "friendly battles4",
+        "tid": "TID_HINT_FRIENDLY_BATTLES4",
+        "min_exp_level": 3
+    },
+    {
+        "name": "tourney battles1",
+        "tid": "TID_HINT_TOURNEY_BATTLES1",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney battles2",
+        "tid": "TID_HINT_TOURNEY_BATTLES2",
+        "min_exp_level": 8
+    },
+    {
+        "name": "legendary chest1",
+        "tid": "TID_HINT_CHEST_LEGENDARY1",
+        "min_trophies": 1400
+    },
+    {
+        "name": "legendary chest2",
+        "tid": "TID_HINT_CHEST_LEGENDARY2",
+        "min_trophies": 2000
+    },
+    {
+        "name": "super magical chest1",
+        "tid": "TID_HINT_CHEST_SUPER_MAGICAL1",
+        "min_arena": 4
+    },
+    {
+        "name": "super magical chest2",
+        "tid": "TID_HINT_CHEST_SUPER_MAGICAL2",
+        "min_trophies": 400
+    },
+    {
+        "name": "giant chest1",
+        "tid": "TID_HINT_CHEST_GIANT1",
+        "min_arena": 2
+    },
+    {
+        "name": "giant chest2",
+        "tid": "TID_HINT_CHEST_GIANT2",
+        "min_arena": 2
+    },
+    {
+        "name": "three musketeers",
+        "tid": "TID_HINT_THREE_MUSKETEERS",
+        "min_arena": 7
+    },
+    {
+        "name": "dark prince",
+        "tid": "TID_HINT_DARK_PRINCE",
+        "min_arena": 7
+    },
+    {
+        "name": "ice wizard",
+        "tid": "TID_HINT_ICE_WIZARD",
+        "min_arena": 5
+    },
+    {
+        "name": "princess",
+        "tid": "TID_HINT_PRINCESS",
+        "min_arena": 7
+    },
+    {
+        "name": "royal giant",
+        "tid": "TID_HINT_ROYAL_GIANT",
+        "min_arena": 7
+    },
+    {
+        "name": "poison",
+        "tid": "TID_HINT_POISON",
+        "min_arena": 5
+    },
+    {
+        "name": "legendary max level",
+        "tid": "TID_HINT_LEGENDARY_MAX_LEVEL",
+        "min_exp_level": 8
+    },
+    {
+        "name": "gold per win",
+        "tid": "TID_HINT_GOLD_PER_WIN",
+        "min_arena": 1
+    },
+    {
+        "name": "lava hound",
+        "tid": "TID_HINT_LAVA_HOUND",
+        "min_arena": 4
+    },
+    {
+        "name": "miner",
+        "tid": "TID_HINT_MINER",
+        "min_arena": 6
+    },
+    {
+        "name": "sparky",
+        "tid": "TID_HINT_SPARKY",
+        "min_arena": 6
+    },
+    {
+        "name": "legendary card",
+        "tid": "TID_HINT_LEGENDARY_CARDS",
+        "min_arena": 4
+    },
+    {
+        "name": "bowler",
+        "tid": "TID_HINT_BOWLER",
+        "min_arena": 8
+    },
+    {
+        "name": "rage log",
+        "tid": "TID_HINT_RAGE_LOG",
+        "min_arena": 6
+    },
+    {
+        "name": "tourney1",
+        "tid": "TID_HINT_TOURNEY1",
+        "not_created_tournament": true,
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney2",
+        "tid": "TID_HINT_TOURNEY2",
+        "min_exp_level": 5,
+        "max_exp_level": 7
+    },
+    {
+        "name": "tourney3",
+        "tid": "TID_HINT_TOURNEY3",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney4",
+        "tid": "TID_HINT_TOURNEY4",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney5",
+        "tid": "TID_HINT_TOURNEY5",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney6",
+        "tid": "TID_HINT_TOURNEY6",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney7",
+        "tid": "TID_HINT_TOURNEY7",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney8",
+        "tid": "TID_HINT_TOURNEY8",
+        "min_exp_level": 8
+    },
+    {
+        "name": "tourney9",
+        "tid": "TID_HINT_TOURNEY9",
+        "min_exp_level": 8
+    },
+    {
+        "name": "arena pack",
+        "tid": "TID_HINT_ARENA_PACK",
+        "min_exp_level": 3
+    },
+    {
+        "name": "friends list1",
+        "tid": "TID_HINT_FRIENDS_LIST1",
+        "min_exp_level": 3
+    },
+    {
+        "name": "friends list2",
+        "tid": "TID_HINT_FRIENDS_LIST2",
+        "min_exp_level": 3
+    },
+    {
+        "name": "mute",
+        "tid": "TID_HINT_MUTE",
+        "min_exp_level": 4
+    },
+    {
+        "name": "epic chest",
+        "tid": "TID_HINT_CHEST_EPIC",
+        "min_trophies": 1000
+    },
+    {
+        "name": "graveyard",
+        "tid": "TID_HINT_GRAVEYARD",
+        "min_arena": 5
+    },
+    {
+        "name": "clone",
+        "tid": "TID_HINT_CLONE",
+        "min_arena": 8
+    },
+    {
+        "name": "bandit",
+        "tid": "TID_HINT_BANDIT",
+        "min_arena": 9
+    },
+    {
+        "name": "sparky2",
+        "tid": "TID_HINT_SPARKY2",
+        "min_arena": 11
+    },
+    {
+        "name": "2v2 1",
+        "tid": "TID_HINT_2v2_1",
+        "min_arena": 1
+    },
+    {
+        "name": "2v2 2",
+        "tid": "TID_HINT_2v2_2",
+        "min_arena": 1
+    },
+    {
+        "name": "2v2 3",
+        "tid": "TID_HINT_2v2_3",
+        "min_arena": 2
+    },
+    {
+        "name": "2v2 4",
+        "tid": "TID_HINT_2v2_4",
+        "min_arena": 2
+    },
+    {
+        "name": "2v2 5",
+        "tid": "TID_HINT_2v2_5",
+        "min_arena": 2
+    },
+    {
+        "name": "2v2 6",
+        "tid": "TID_HINT_2v2_6",
+        "min_arena": 3
+    },
+    {
+        "name": "take a break1",
+        "tid": "TID_HINT_TAKEABREAK1",
+        "min_arena": 7
+    },
+    {
+        "name": "take a break2",
+        "tid": "TID_HINT_TAKEABREAK2",
+        "min_arena": 7
+    }
+]

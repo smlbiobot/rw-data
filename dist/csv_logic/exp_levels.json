@@ -1,0 +1,177 @@
+[
+    {
+        "name": "1",
+        "exp_to_next_level": 10,
+        "max_hq_level": 1,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "2",
+        "exp_to_next_level": 100,
+        "max_hq_level": 2,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "3",
+        "exp_to_next_level": 200,
+        "max_hq_level": 2,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "4",
+        "exp_to_next_level": 400,
+        "max_hq_level": 3,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "5",
+        "exp_to_next_level": 800,
+        "max_hq_level": 3,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "6",
+        "exp_to_next_level": 2000,
+        "max_hq_level": 4,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "7",
+        "exp_to_next_level": 4000,
+        "max_hq_level": 4,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "8",
+        "exp_to_next_level": 8000,
+        "max_hq_level": 5,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "9",
+        "exp_to_next_level": 12000,
+        "max_hq_level": 5,
+        "gold_reward": 0,
+        "gem_reward": 10
+    },
+    {
+        "name": "10",
+        "exp_to_next_level": 16000,
+        "max_hq_level": 6,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "11",
+        "exp_to_next_level": 20000,
+        "max_hq_level": 6,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "12",
+        "exp_to_next_level": 24000,
+        "max_hq_level": 7,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "13",
+        "exp_to_next_level": 28000,
+        "max_hq_level": 7,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "14",
+        "exp_to_next_level": 32000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "15",
+        "exp_to_next_level": 36000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "16",
+        "exp_to_next_level": 40000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "17",
+        "exp_to_next_level": 42000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "18",
+        "exp_to_next_level": 44000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "19",
+        "exp_to_next_level": 46000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "20",
+        "exp_to_next_level": 48000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "21",
+        "exp_to_next_level": 50000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "22",
+        "exp_to_next_level": 52000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "23",
+        "exp_to_next_level": 54000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "24",
+        "exp_to_next_level": 56000,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    },
+    {
+        "name": "25",
+        "exp_to_next_level": 0,
+        "max_hq_level": 8,
+        "gold_reward": 0,
+        "gem_reward": 20
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "GoldCoin",
+        "tid": "TID_PICKUP_GOLD",
+        "info_tid": "TID_PICKUP_GOLD_INFO",
+        "swf": "sc/collectables.sc",
+        "export_name": "collect_gold",
+        "resource": "Gold",
+        "resource_amount": 1,
+        "trigger_radius": 2500,
+        "effect": "CollectGold",
+        "spawn_base_anim_export_name": "filter_deploy_unit_default",
+        "shadow_scale_x": -80,
+        "shadow_scale_y": 80,
+        "shadow_x": 0,
+        "shadow_y": 0,
+        "shadow_skew": 80,
+        "collect_by_tapping": true
+    },
+    {
+        "name": "HOME_FreeChest",
+        "tid": "TID_PICKUP_CARD",
+        "info_tid": "TID_PICKUP_CARD_INFO",
+        "swf": "sc/collectables.sc",
+        "export_name": "collectable_chest_new",
+        "chest": "Free",
+        "spawn_base_anim_export_name": "filter_deploy_unit_default",
+        "shadow_scale_x": 100,
+        "shadow_scale_y": -90,
+        "shadow_x": -4,
+        "shadow_y": 12,
+        "shadow_skew": -9,
+        "collect_by_tapping": true
+    }
+]

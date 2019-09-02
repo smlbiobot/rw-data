@@ -1,0 +1,376 @@
+[
+    {
+        "name": "Home_1",
+        "file_name": "locations/home_1.loc.json",
+        "environment": "Home"
+    },
+    {
+        "name": "EMPTY_SLOT_0"
+    },
+    {
+        "name": "Forest_1",
+        "file_name": "locations/forest_1.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_2",
+        "file_name": "locations/forest_2.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_3",
+        "file_name": "locations/forest_3.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_4",
+        "file_name": "locations/forest_4.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_5",
+        "file_name": "locations/forest_5.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_6",
+        "file_name": "locations/forest_6.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_7",
+        "file_name": "locations/forest_7.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_8",
+        "file_name": "locations/forest_8.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_9",
+        "file_name": "locations/forest_9.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_10",
+        "file_name": "locations/forest_10.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_11",
+        "file_name": "locations/forest_11.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_12",
+        "file_name": "locations/forest_12.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_13",
+        "file_name": "locations/forest_13.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_14",
+        "file_name": "locations/forest_14.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_15",
+        "file_name": "locations/forest_15.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_16",
+        "file_name": "locations/forest_16.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_17",
+        "file_name": "locations/forest_17.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_18",
+        "file_name": "locations/forest_18.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_19",
+        "file_name": "locations/forest_19.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_20",
+        "file_name": "locations/forest_20.loc.json",
+        "environment": "Forest",
+        "can_capture": true
+    },
+    {
+        "name": "Forest_Domination_1",
+        "file_name": "locations/forest_dom_1.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_2",
+        "file_name": "locations/forest_dom_2.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_3",
+        "file_name": "locations/forest_dom_3.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_4",
+        "file_name": "locations/forest_dom_4.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_5",
+        "file_name": "locations/forest_dom_5.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_6",
+        "file_name": "locations/forest_dom_6.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_7",
+        "file_name": "locations/forest_dom_7.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_8",
+        "file_name": "locations/forest_dom_8.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_9",
+        "file_name": "locations/forest_dom_9.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_10",
+        "file_name": "locations/forest_dom_10.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_11",
+        "file_name": "locations/forest_dom_11.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_12",
+        "file_name": "locations/forest_dom_12.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_13",
+        "file_name": "locations/forest_dom_13.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_14",
+        "file_name": "locations/forest_dom_14.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_15",
+        "file_name": "locations/forest_dom_15.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_16",
+        "file_name": "locations/forest_dom_16.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_17",
+        "file_name": "locations/forest_dom_17.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_18",
+        "file_name": "locations/forest_dom_18.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_19",
+        "file_name": "locations/forest_dom_19.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Forest_Domination_20",
+        "file_name": "locations/forest_dom_20.loc.json",
+        "environment": "Forest",
+        "domination": true
+    },
+    {
+        "name": "Megacity_01",
+        "file_name": "locations/megacity_01.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_02",
+        "file_name": "locations/megacity_02.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_03",
+        "file_name": "locations/megacity_03.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_1",
+        "file_name": "locations/desert_01.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_2",
+        "file_name": "locations/desert_2.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_3",
+        "file_name": "locations/desert_3.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_11",
+        "file_name": "locations/megacity_11.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_12",
+        "file_name": "locations/megacity_12.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_13",
+        "file_name": "locations/megacity_13.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_4",
+        "file_name": "locations/desert_4.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_5",
+        "file_name": "locations/desert_05.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_14",
+        "file_name": "locations/megacity_14.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_15",
+        "file_name": "locations/megacity_15.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_16",
+        "file_name": "locations/megacity_16.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_11",
+        "file_name": "locations/desert_11.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_6",
+        "file_name": "locations/desert_6.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_7",
+        "file_name": "locations/desert_7.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Megacity_04",
+        "file_name": "locations/megacity_04.loc.json",
+        "environment": "Megacity",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_9",
+        "file_name": "locations/desert_9.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_12",
+        "file_name": "locations/desert_12.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    },
+    {
+        "name": "Desert_8",
+        "file_name": "locations/desert_8.loc.json",
+        "environment": "Desert",
+        "can_capture": true
+    }
+]

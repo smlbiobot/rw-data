@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gold1",
+        "tid": "TID_RESOURCE_PACK_GOLD_SMALL",
+        "resource": "Gold",
+        "amount": 1000,
+        "icon_swf": "sc/ui_portraits.sc",
+        "icon_export_name": "shop_currency_gold_01"
+    },
+    {
+        "name": "Gold2",
+        "tid": "TID_RESOURCE_PACK_GOLD_MEDIUM",
+        "resource": "Gold",
+        "amount": 10000,
+        "icon_swf": "sc/ui_portraits.sc",
+        "icon_export_name": "shop_currency_gold_02"
+    },
+    {
+        "name": "Gold3",
+        "tid": "TID_RESOURCE_PACK_GOLD_BIG",
+        "resource": "Gold",
+        "amount": 100000,
+        "icon_swf": "sc/ui_portraits.sc",
+        "icon_export_name": "shop_currency_gold_03"
+    }
+]

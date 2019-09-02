@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Home",
+        "file_name": {
+            "0": "music/rush_home_test_06.ogg",
+            "1": "music/rush_home_test_07.ogg",
+            "2": "music/rushtown02.ogg",
+            "3": "music/rushbase04.ogg",
+            "4": "music/rush_morehome01.ogg",
+            "5": "music/rushhomebase01.ogg"
+        },
+        "volume": {
+            "0": 35,
+            "1": 35,
+            "2": 35,
+            "3": 35,
+            "4": 35,
+            "5": 35
+        },
+        "loop": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true
+        }
+    },
+    {
+        "name": "Deploy",
+        "file_name": {
+            "0": "music/rush_preatk_setup_test_01.ogg",
+            "1": "music/rushpre08.ogg",
+            "2": "music/rush_preatk_setup_test_02.ogg",
+            "3": "music/rush_preatk_setup_test_03.ogg",
+            "4": "music/rush_preatk_setup_test_04.ogg",
+            "5": "music/rush_preatk_setup_test_05.ogg"
+        },
+        "volume": {
+            "0": 35,
+            "1": 35,
+            "2": 35,
+            "3": 35,
+            "4": 35,
+            "5": 35
+        },
+        "loop": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true
+        }
+    },
+    {
+        "name": "Battle",
+        "file_name": {
+            "0": "music/rush_combat_test_04.ogg",
+            "1": "music/rush_combat_test_2_01.ogg",
+            "2": "music/rush_combat_test_3_01.ogg",
+            "3": "music/rushcombat05.ogg",
+            "4": "music/rush06.ogg",
+            "5": "music/rushvombat451.ogg",
+            "6": "music/rushcombat7.ogg"
+        },
+        "volume": {
+            "0": 35,
+            "1": 35,
+            "2": 35,
+            "3": 35,
+            "4": 35,
+            "5": 35,
+            "6": 35
+        },
+        "loop": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+        }
+    },
+    {
+        "name": "Win",
+        "file_name": "music/win_music_01.ogg",
+        "volume": 40,
+        "loop": true
+    },
+    {
+        "name": "Lose",
+        "file_name": "music/lose_music_01.ogg",
+        "volume": 35,
+        "loop": true
+    },
+    {
+        "name": "1_2_Win",
+        "file_name": "music/rush_12star.ogg",
+        "volume": 40,
+        "loop": true
+    },
+    {
+        "name": "3_Win",
+        "file_name": "music/rush_3star.ogg",
+        "volume": 40,
+        "loop": true
+    }
+]

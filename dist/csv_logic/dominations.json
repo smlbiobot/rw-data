@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Test_1",
+        "team_size": 1,
+        "disable_production": true,
+        "map": "domination/map_6v1.json"
+    },
+    {
+        "name": "Test_2",
+        "team_size": 2,
+        "disable_production": true,
+        "map": "domination/map_6v1.json"
+    },
+    {
+        "name": "Test_3",
+        "team_size": 3,
+        "disable_production": true,
+        "map": "domination/map_9v1.json"
+    },
+    {
+        "name": "Mini_1",
+        "team_size": 5,
+        "map": "domination/map_15v1.json"
+    },
+    {
+        "name": "Small_1",
+        "team_size": 10,
+        "map": "domination/map_30v1.json"
+    },
+    {
+        "name": "Medium_1",
+        "team_size": 20,
+        "map": "domination/map_60v1.json"
+    },
+    {
+        "name": "Large_1",
+        "team_size": 40,
+        "disable_production": true,
+        "map": "domination/map_120v1.json"
+    }
+]

@@ -1,0 +1,1829 @@
+[
+    {
+        "name": "_EU",
+        "tid": "TID_EUROPE",
+        "display_name": "Europe",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_NA",
+        "tid": "TID_NORTH_AMERICA",
+        "display_name": "North America",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_SA",
+        "tid": "TID_SOUTH_AMERICA",
+        "display_name": "South America",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_AS",
+        "tid": "TID_ASIA",
+        "display_name": "Asia",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_AU",
+        "tid": "TID_AUSTRALIA",
+        "display_name": "Australia",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_AF",
+        "tid": "TID_AFRICA",
+        "display_name": "Africa",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "_INT",
+        "tid": "TID_INTERNATIONAL",
+        "display_name": "International",
+        "is_country": false,
+        "region_popup": true
+    },
+    {
+        "name": "AF",
+        "tid": "TID_AFGHANISTAN",
+        "display_name": "Afghanistan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AX",
+        "tid": "TID_ALAND_ISLANDS",
+        "display_name": "\u00c5land Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AL",
+        "tid": "TID_ALBANIA",
+        "display_name": "Albania",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DZ",
+        "tid": "TID_ALGERIA",
+        "display_name": "Algeria",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AS",
+        "tid": "TID_AMERICAN_SAMOA",
+        "display_name": "American Samoa",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AD",
+        "tid": "TID_ANDORRA",
+        "display_name": "Andorra",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AO",
+        "tid": "TID_ANGOLA",
+        "display_name": "Angola",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AI",
+        "tid": "TID_ANGUILLA",
+        "display_name": "Anguilla",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AQ",
+        "tid": "TID_ANTARCTICA",
+        "display_name": "Antarctica",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AG",
+        "tid": "TID_ANTIGUA_AND_BARBUDA",
+        "display_name": "Antigua and Barbuda",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AR",
+        "tid": "TID_ARGENTINA",
+        "display_name": "Argentina",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AM",
+        "tid": "TID_ARMENIA",
+        "display_name": "Armenia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AW",
+        "tid": "TID_ARUBA",
+        "display_name": "Aruba",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AC",
+        "tid": "TID_ASCENSION_ISLAND",
+        "display_name": "Ascension Island",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AU",
+        "tid": "TID_AUSTRALIA",
+        "display_name": "Australia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AT",
+        "tid": "TID_AUSTRIA",
+        "display_name": "Austria",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AZ",
+        "tid": "TID_AZERBAIJAN",
+        "display_name": "Azerbaijan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BS",
+        "tid": "TID_BAHAMAS",
+        "display_name": "Bahamas",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BH",
+        "tid": "TID_BAHRAIN",
+        "display_name": "Bahrain",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BD",
+        "tid": "TID_BANGLADESH",
+        "display_name": "Bangladesh",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BB",
+        "tid": "TID_BARBADOS",
+        "display_name": "Barbados",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BY",
+        "tid": "TID_BELARUS",
+        "display_name": "Belarus",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BE",
+        "tid": "TID_BELGIUM",
+        "display_name": "Belgium",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BZ",
+        "tid": "TID_BELIZE",
+        "display_name": "Belize",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BJ",
+        "tid": "TID_BENIN",
+        "display_name": "Benin",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BM",
+        "tid": "TID_BERMUDA",
+        "display_name": "Bermuda",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BT",
+        "tid": "TID_BHUTAN",
+        "display_name": "Bhutan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BO",
+        "tid": "TID_BOLIVIA",
+        "display_name": "Bolivia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BA",
+        "tid": "TID_BOSNIA_AND_HERZEGOVINA",
+        "display_name": "Bosnia and Herzegovina",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BW",
+        "tid": "TID_BOTSWANA",
+        "display_name": "Botswana",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BV",
+        "tid": "TID_BOUVET_ISLAND",
+        "display_name": "Bouvet Island",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BR",
+        "tid": "TID_BRAZIL",
+        "display_name": "Brazil",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IO",
+        "tid": "TID_BRITISH_INDIAN_OCEAN_TERRITORY",
+        "display_name": "British Indian Ocean Territory",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VG",
+        "tid": "TID_BRITISH_VIRGIN_ISLANDS",
+        "display_name": "British Virgin Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BN",
+        "tid": "TID_BRUNEI",
+        "display_name": "Brunei",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BG",
+        "tid": "TID_BULGARIA",
+        "display_name": "Bulgaria",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BF",
+        "tid": "TID_BURKINA_FASO",
+        "display_name": "Burkina Faso",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BI",
+        "tid": "TID_BURUNDI",
+        "display_name": "Burundi",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KH",
+        "tid": "TID_CAMBODIA",
+        "display_name": "Cambodia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CM",
+        "tid": "TID_CAMEROON",
+        "display_name": "Cameroon",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CA",
+        "tid": "TID_CANADA",
+        "display_name": "Canada",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IC",
+        "tid": "TID_CANARY_ISLANDS",
+        "display_name": "Canary Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CV",
+        "tid": "TID_CAPE_VERDE",
+        "display_name": "Cape Verde",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BQ",
+        "tid": "TID_CARIBBEAN_NETHERLANDS",
+        "display_name": "Caribbean Netherlands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KY",
+        "tid": "TID_CAYMAN_ISLANDS",
+        "display_name": "Cayman Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CF",
+        "tid": "TID_CENTRAL_AFRICAN_REPUBLIC",
+        "display_name": "Central African Republic",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "EA",
+        "tid": "TID_CEUTA_AND_MELILLA",
+        "display_name": "Ceuta and Melilla",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TD",
+        "tid": "TID_CHAD",
+        "display_name": "Chad",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CL",
+        "tid": "TID_CHILE",
+        "display_name": "Chile",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CN",
+        "tid": "TID_CHINA",
+        "display_name": "China",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CX",
+        "tid": "TID_CHRISTMAS_ISLAND",
+        "display_name": "Christmas Island",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CC",
+        "tid": "TID_COCOS_KEELING_ISLANDS",
+        "display_name": "Cocos (Keeling) Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CO",
+        "tid": "TID_COLOMBIA",
+        "display_name": "Colombia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KM",
+        "tid": "TID_COMOROS",
+        "display_name": "Comoros",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CG",
+        "tid": "TID_CONGO_DRC",
+        "display_name": "Congo (DRC)",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CD",
+        "tid": "TID_CONGO_REPUBLIC",
+        "display_name": "Congo (Republic)",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CK",
+        "tid": "TID_COOK_ISLANDS",
+        "display_name": "Cook Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CR",
+        "tid": "TID_COSTA_RICA",
+        "display_name": "Costa Rica",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CI",
+        "tid": "TID_COTE_DIVOIRE",
+        "display_name": "C\u00f4te d\u2019Ivoire",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HR",
+        "tid": "TID_CROATIA",
+        "display_name": "Croatia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CU",
+        "tid": "TID_CUBA",
+        "display_name": "Cuba",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CW",
+        "tid": "TID_CURACAO",
+        "display_name": "Cura\u00e7ao",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CY",
+        "tid": "TID_CYPRUS",
+        "display_name": "Cyprus",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CZ",
+        "tid": "TID_CZECH_REPUBLIC",
+        "display_name": "Czech Republic",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DK",
+        "tid": "TID_DENMARK",
+        "display_name": "Denmark",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DG",
+        "tid": "TID_DIEGO_GARCIA",
+        "display_name": "Diego Garcia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DJ",
+        "tid": "TID_DJIBOUTI",
+        "display_name": "Djibouti",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DM",
+        "tid": "TID_DOMINICA",
+        "display_name": "Dominica",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DO",
+        "tid": "TID_DOMINICAN_REPUBLIC",
+        "display_name": "Dominican Republic",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "EC",
+        "tid": "TID_ECUADOR",
+        "display_name": "Ecuador",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "EG",
+        "tid": "TID_EGYPT",
+        "display_name": "Egypt",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SV",
+        "tid": "TID_EL_SALVADOR",
+        "display_name": "El Salvador",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GQ",
+        "tid": "TID_EQUATORIAL_GUINEA",
+        "display_name": "Equatorial Guinea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ER",
+        "tid": "TID_ERITREA",
+        "display_name": "Eritrea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "EE",
+        "tid": "TID_ESTONIA",
+        "display_name": "Estonia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ET",
+        "tid": "TID_ETHIOPIA",
+        "display_name": "Ethiopia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FK",
+        "tid": "TID_FALKLAND_ISLANDS",
+        "display_name": "Falkland Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FO",
+        "tid": "TID_FAROE_ISLANDS",
+        "display_name": "Faroe Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FJ",
+        "tid": "TID_FIJI",
+        "display_name": "Fiji",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FI",
+        "tid": "TID_FINLAND",
+        "display_name": "Finland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FR",
+        "tid": "TID_FRANCE",
+        "display_name": "France",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GF",
+        "tid": "TID_FRENCH_GUIANA",
+        "display_name": "French Guiana",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PF",
+        "tid": "TID_FRENCH_POLYNESIA",
+        "display_name": "French Polynesia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TF",
+        "tid": "TID_FRENCH_SOUTHERN_TERRITORIES",
+        "display_name": "French Southern Territories",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GA",
+        "tid": "TID_GABON",
+        "display_name": "Gabon",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GM",
+        "tid": "TID_GAMBIA",
+        "display_name": "Gambia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GE",
+        "tid": "TID_GEORGIA",
+        "display_name": "Georgia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "DE",
+        "tid": "TID_GERMANY",
+        "display_name": "Germany",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GH",
+        "tid": "TID_GHANA",
+        "display_name": "Ghana",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GI",
+        "tid": "TID_GIBRALTAR",
+        "display_name": "Gibraltar",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GR",
+        "tid": "TID_GREECE",
+        "display_name": "Greece",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GL",
+        "tid": "TID_GREENLAND",
+        "display_name": "Greenland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GD",
+        "tid": "TID_GRENADA",
+        "display_name": "Grenada",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GP",
+        "tid": "TID_GUADELOUPE",
+        "display_name": "Guadeloupe",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GU",
+        "tid": "TID_GUAM",
+        "display_name": "Guam",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GT",
+        "tid": "TID_GUATEMALA",
+        "display_name": "Guatemala",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GG",
+        "tid": "TID_GUERNSEY",
+        "display_name": "Guernsey",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GN",
+        "tid": "TID_GUINEA",
+        "display_name": "Guinea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GW",
+        "tid": "TID_GUINEA-BISSAU",
+        "display_name": "Guinea-Bissau",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GY",
+        "tid": "TID_GUYANA",
+        "display_name": "Guyana",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HT",
+        "tid": "TID_HAITI",
+        "display_name": "Haiti",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HM",
+        "tid": "TID_HEARD_MCDONALD_ISLANDS",
+        "display_name": "Heard & McDonald Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HN",
+        "tid": "TID_HONDURAS",
+        "display_name": "Honduras",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HK",
+        "tid": "TID_HONG_KONG",
+        "display_name": "Hong Kong",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "HU",
+        "tid": "TID_HUNGARY",
+        "display_name": "Hungary",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IS",
+        "tid": "TID_ICELAND",
+        "display_name": "Iceland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IN",
+        "tid": "TID_INDIA",
+        "display_name": "India",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ID",
+        "tid": "TID_INDONESIA",
+        "display_name": "Indonesia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IR",
+        "tid": "TID_IRAN",
+        "display_name": "Iran",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IQ",
+        "tid": "TID_IRAQ",
+        "display_name": "Iraq",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IE",
+        "tid": "TID_IRELAND",
+        "display_name": "Ireland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IM",
+        "tid": "TID_ISLE_OF_MAN",
+        "display_name": "Isle of Man",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IL",
+        "tid": "TID_ISRAEL",
+        "display_name": "Israel",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "IT",
+        "tid": "TID_ITALY",
+        "display_name": "Italy",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "JM",
+        "tid": "TID_JAMAICA",
+        "display_name": "Jamaica",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "JP",
+        "tid": "TID_JAPAN",
+        "display_name": "Japan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "JE",
+        "tid": "TID_JERSEY",
+        "display_name": "Jersey",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "JO",
+        "tid": "TID_JORDAN",
+        "display_name": "Jordan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KZ",
+        "tid": "TID_KAZAKHSTAN",
+        "display_name": "Kazakhstan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KE",
+        "tid": "TID_KENYA",
+        "display_name": "Kenya",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KI",
+        "tid": "TID_KIRIBATI",
+        "display_name": "Kiribati",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "XK",
+        "tid": "TID_KOSOVO",
+        "display_name": "Kosovo",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KW",
+        "tid": "TID_KUWAIT",
+        "display_name": "Kuwait",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KG",
+        "tid": "TID_KYRGYZSTAN",
+        "display_name": "Kyrgyzstan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LA",
+        "tid": "TID_LAOS",
+        "display_name": "Laos",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LV",
+        "tid": "TID_LATVIA",
+        "display_name": "Latvia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LB",
+        "tid": "TID_LEBANON",
+        "display_name": "Lebanon",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LS",
+        "tid": "TID_LESOTHO",
+        "display_name": "Lesotho",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LR",
+        "tid": "TID_LIBERIA",
+        "display_name": "Liberia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LY",
+        "tid": "TID_LIBYA",
+        "display_name": "Libya",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LI",
+        "tid": "TID_LIECHTENSTEIN",
+        "display_name": "Liechtenstein",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LT",
+        "tid": "TID_LITHUANIA",
+        "display_name": "Lithuania",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LU",
+        "tid": "TID_LUXEMBOURG",
+        "display_name": "Luxembourg",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MO",
+        "tid": "TID_MACAU",
+        "display_name": "Macau",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MK",
+        "tid": "TID_MACEDONIA_FYROM",
+        "display_name": "Macedonia (FYROM)",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MG",
+        "tid": "TID_MADAGASCAR",
+        "display_name": "Madagascar",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MW",
+        "tid": "TID_MALAWI",
+        "display_name": "Malawi",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MY",
+        "tid": "TID_MALAYSIA",
+        "display_name": "Malaysia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MV",
+        "tid": "TID_MALDIVES",
+        "display_name": "Maldives",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ML",
+        "tid": "TID_MALI",
+        "display_name": "Mali",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MT",
+        "tid": "TID_MALTA",
+        "display_name": "Malta",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MH",
+        "tid": "TID_MARSHALL_ISLANDS",
+        "display_name": "Marshall Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MQ",
+        "tid": "TID_MARTINIQUE",
+        "display_name": "Martinique",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MR",
+        "tid": "TID_MAURITANIA",
+        "display_name": "Mauritania",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MU",
+        "tid": "TID_MAURITIUS",
+        "display_name": "Mauritius",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "YT",
+        "tid": "TID_MAYOTTE",
+        "display_name": "Mayotte",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MX",
+        "tid": "TID_MEXICO",
+        "display_name": "Mexico",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "FM",
+        "tid": "TID_MICRONESIA",
+        "display_name": "Micronesia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MD",
+        "tid": "TID_MOLDOVA",
+        "display_name": "Moldova",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MC",
+        "tid": "TID_MONACO",
+        "display_name": "Monaco",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MN",
+        "tid": "TID_MONGOLIA",
+        "display_name": "Mongolia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ME",
+        "tid": "TID_MONTENEGRO",
+        "display_name": "Montenegro",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MS",
+        "tid": "TID_MONTSERRAT",
+        "display_name": "Montserrat",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MA",
+        "tid": "TID_MOROCCO",
+        "display_name": "Morocco",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MZ",
+        "tid": "TID_MOZAMBIQUE",
+        "display_name": "Mozambique",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MM",
+        "tid": "TID_MYANMAR_BURMA",
+        "display_name": "Myanmar (Burma)",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NA",
+        "tid": "TID_NAMIBIA",
+        "display_name": "Namibia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NR",
+        "tid": "TID_NAURU",
+        "display_name": "Nauru",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NP",
+        "tid": "TID_NEPAL",
+        "display_name": "Nepal",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NL",
+        "tid": "TID_NETHERLANDS",
+        "display_name": "Netherlands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NC",
+        "tid": "TID_NEW_CALEDONIA",
+        "display_name": "New Caledonia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NZ",
+        "tid": "TID_NEW_ZEALAND",
+        "display_name": "New Zealand",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NI",
+        "tid": "TID_NICARAGUA",
+        "display_name": "Nicaragua",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NE",
+        "tid": "TID_NIGER",
+        "display_name": "Niger",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NG",
+        "tid": "TID_NIGERIA",
+        "display_name": "Nigeria",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NU",
+        "tid": "TID_NIUE",
+        "display_name": "Niue",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NF",
+        "tid": "TID_NORFOLK_ISLAND",
+        "display_name": "Norfolk Island",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KP",
+        "tid": "TID_NORTH_KOREA",
+        "display_name": "North Korea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MP",
+        "tid": "TID_NORTHERN_MARIANA_ISLANDS",
+        "display_name": "Northern Mariana Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "NO",
+        "tid": "TID_NORWAY",
+        "display_name": "Norway",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "OM",
+        "tid": "TID_OMAN",
+        "display_name": "Oman",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PK",
+        "tid": "TID_PAKISTAN",
+        "display_name": "Pakistan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PW",
+        "tid": "TID_PALAU",
+        "display_name": "Palau",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PS",
+        "tid": "TID_PALESTINE",
+        "display_name": "Palestine",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PA",
+        "tid": "TID_PANAMA",
+        "display_name": "Panama",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PG",
+        "tid": "TID_PAPUA_NEW_GUINEA",
+        "display_name": "Papua New Guinea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PY",
+        "tid": "TID_PARAGUAY",
+        "display_name": "Paraguay",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PE",
+        "tid": "TID_PERU",
+        "display_name": "Peru",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PH",
+        "tid": "TID_PHILIPPINES",
+        "display_name": "Philippines",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PN",
+        "tid": "TID_PITCAIRN_ISLANDS",
+        "display_name": "Pitcairn Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PL",
+        "tid": "TID_POLAND",
+        "display_name": "Poland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PT",
+        "tid": "TID_PORTUGAL",
+        "display_name": "Portugal",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PR",
+        "tid": "TID_PUERTO_RICO",
+        "display_name": "Puerto Rico",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "QA",
+        "tid": "TID_QATAR",
+        "display_name": "Qatar",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "RE",
+        "tid": "TID_REUNION",
+        "display_name": "R\u00e9union",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "RO",
+        "tid": "TID_ROMANIA",
+        "display_name": "Romania",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "RU",
+        "tid": "TID_RUSSIA",
+        "display_name": "Russia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "RW",
+        "tid": "TID_RWANDA",
+        "display_name": "Rwanda",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "BL",
+        "tid": "TID_SAINT_BARTHELEMY",
+        "display_name": "Saint Barth\u00e9lemy",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SH",
+        "tid": "TID_SAINT_HELENA",
+        "display_name": "Saint Helena",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KN",
+        "tid": "TID_SAINT_KITTS_AND_NEVIS",
+        "display_name": "Saint Kitts and Nevis",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LC",
+        "tid": "TID_SAINT_LUCIA",
+        "display_name": "Saint Lucia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "MF",
+        "tid": "TID_SAINT_MARTIN",
+        "display_name": "Saint Martin",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "PM",
+        "tid": "TID_SAINT_PIERRE_AND_MIQUELON",
+        "display_name": "Saint Pierre and Miquelon",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "WS",
+        "tid": "TID_SAMOA",
+        "display_name": "Samoa",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SM",
+        "tid": "TID_SAN_MARINO",
+        "display_name": "San Marino",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ST",
+        "tid": "TID_SAO_TOME_AND_PRINCIPE",
+        "display_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SA",
+        "tid": "TID_SAUDI_ARABIA",
+        "display_name": "Saudi Arabia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SN",
+        "tid": "TID_SENEGAL",
+        "display_name": "Senegal",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "RS",
+        "tid": "TID_SERBIA",
+        "display_name": "Serbia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SC",
+        "tid": "TID_SEYCHELLES",
+        "display_name": "Seychelles",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SL",
+        "tid": "TID_SIERRA_LEONE",
+        "display_name": "Sierra Leone",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SG",
+        "tid": "TID_SINGAPORE",
+        "display_name": "Singapore",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SX",
+        "tid": "TID_SINT_MAARTEN",
+        "display_name": "Sint Maarten",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SK",
+        "tid": "TID_SLOVAKIA",
+        "display_name": "Slovakia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SI",
+        "tid": "TID_SLOVENIA",
+        "display_name": "Slovenia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SB",
+        "tid": "TID_SOLOMON_ISLANDS",
+        "display_name": "Solomon Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SO",
+        "tid": "TID_SOMALIA",
+        "display_name": "Somalia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ZA",
+        "tid": "TID_SOUTH_AFRICA",
+        "display_name": "South Africa",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "KR",
+        "tid": "TID_SOUTH_KOREA",
+        "display_name": "South Korea",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SS",
+        "tid": "TID_SOUTH_SUDAN",
+        "display_name": "South Sudan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ES",
+        "tid": "TID_SPAIN",
+        "display_name": "Spain",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "LK",
+        "tid": "TID_SRI_LANKA",
+        "display_name": "Sri Lanka",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VC",
+        "tid": "TID_ST_VINCENT_GRENADINES",
+        "display_name": "St. Vincent & Grenadines",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SD",
+        "tid": "TID_SUDAN",
+        "display_name": "Sudan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SR",
+        "tid": "TID_SURINAME",
+        "display_name": "Suriname",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SJ",
+        "tid": "TID_SVALBARD_AND_JAN_MAYEN",
+        "display_name": "Svalbard and Jan Mayen",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SZ",
+        "tid": "TID_SWAZILAND",
+        "display_name": "Swaziland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SE",
+        "tid": "TID_SWEDEN",
+        "display_name": "Sweden",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "CH",
+        "tid": "TID_SWITZERLAND",
+        "display_name": "Switzerland",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "SY",
+        "tid": "TID_SYRIA",
+        "display_name": "Syria",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TW",
+        "tid": "TID_TAIWAN",
+        "display_name": "Taiwan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TJ",
+        "tid": "TID_TAJIKISTAN",
+        "display_name": "Tajikistan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TZ",
+        "tid": "TID_TANZANIA",
+        "display_name": "Tanzania",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TH",
+        "tid": "TID_THAILAND",
+        "display_name": "Thailand",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TL",
+        "tid": "TID_TIMOR-LESTE",
+        "display_name": "Timor-Leste",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TG",
+        "tid": "TID_TOGO",
+        "display_name": "Togo",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TK",
+        "tid": "TID_TOKELAU",
+        "display_name": "Tokelau",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TO",
+        "tid": "TID_TONGA",
+        "display_name": "Tonga",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TT",
+        "tid": "TID_TRINIDAD_AND_TOBAGO",
+        "display_name": "Trinidad and Tobago",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TA",
+        "tid": "TID_TRISTAN_DA_CUNHA",
+        "display_name": "Tristan da Cunha",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TN",
+        "tid": "TID_TUNISIA",
+        "display_name": "Tunisia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TR",
+        "tid": "TID_TURKEY",
+        "display_name": "Turkey",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TM",
+        "tid": "TID_TURKMENISTAN",
+        "display_name": "Turkmenistan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TC",
+        "tid": "TID_TURKS_AND_CAICOS_ISLANDS",
+        "display_name": "Turks and Caicos Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "TV",
+        "tid": "TID_TUVALU",
+        "display_name": "Tuvalu",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "UM",
+        "tid": "TID_US_OUTLYING_ISLANDS",
+        "display_name": "U.S. Outlying Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VI",
+        "tid": "TID_US_VIRGIN_ISLANDS",
+        "display_name": "U.S. Virgin Islands",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "UG",
+        "tid": "TID_UGANDA",
+        "display_name": "Uganda",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "UA",
+        "tid": "TID_UKRAINE",
+        "display_name": "Ukraine",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "AE",
+        "tid": "TID_UNITED_ARAB_EMIRATES",
+        "display_name": "United Arab Emirates",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "GB",
+        "tid": "TID_UNITED_KINGDOM",
+        "display_name": "United Kingdom",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "US",
+        "tid": "TID_UNITED_STATES",
+        "display_name": "United States",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "UY",
+        "tid": "TID_URUGUAY",
+        "display_name": "Uruguay",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "UZ",
+        "tid": "TID_UZBEKISTAN",
+        "display_name": "Uzbekistan",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VU",
+        "tid": "TID_VANUATU",
+        "display_name": "Vanuatu",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VA",
+        "tid": "TID_VATICAN_CITY",
+        "display_name": "Vatican City",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VE",
+        "tid": "TID_VENEZUELA",
+        "display_name": "Venezuela",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "VN",
+        "tid": "TID_VIETNAM",
+        "display_name": "Vietnam",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "WF",
+        "tid": "TID_WALLIS_AND_FUTUNA",
+        "display_name": "Wallis and Futuna",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "EH",
+        "tid": "TID_WESTERN_SAHARA",
+        "display_name": "Western Sahara",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "YE",
+        "tid": "TID_YEMEN",
+        "display_name": "Yemen",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ZM",
+        "tid": "TID_ZAMBIA",
+        "display_name": "Zambia",
+        "is_country": true,
+        "region_popup": true
+    },
+    {
+        "name": "ZW",
+        "tid": "TID_ZIMBABWE",
+        "display_name": "Zimbabwe",
+        "is_country": true,
+        "region_popup": true
+    }
+]
